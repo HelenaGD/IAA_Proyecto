@@ -1,6 +1,8 @@
 """
 Helena Garcia Diaz
+26/04/2022
 
+ref = https://spacy.io/usage/linguistic-features
 ref = https://www.machinelearningplus.com/spacy-tutorial-nlp/
 ref = https://stackoverflow.com/questions/57231616/valueerror-e088-text-of-length-1027203-exceeds-maximum-of-1000000-spacy
 regular expresion for URLs = https://www.codegrepper.com/code-examples/python/regex+remove+URL
