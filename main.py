@@ -73,7 +73,7 @@ the_list_of_tokens.sort()
 # Left only one occurence
 new_list = pd.unique(the_list_of_tokens).tolist()
 
-file.write(f'Numero de palabras: {len(new_list)}')
+file.write(f'Numero de palabras: {len(new_list)}\n')
 
 for token in new_list:
   #print(token)
