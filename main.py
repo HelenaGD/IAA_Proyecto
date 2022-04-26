@@ -64,7 +64,7 @@ for text in raw_data:
   # Amount of tokens after
   print(f'Amount of tokens after: {len(doc)}')
   for token in doc:
-    the_list_of_tokens.append(token)
+    the_list_of_tokens.append(token.text)
 
 print(f'Len of other list of the tokens: {len(the_list_of_tokens)}')
 
@@ -76,7 +76,7 @@ new_list = pd.unique(the_list_of_tokens).tolist()
 file.write(f'Numero de palabras: {len(new_list)}')
 
 for token in new_list:
-  print(token.text)
-  file.write(token.text)
+  #print(token)
+  file.write(f'{token}\n')
 
 file.close()
