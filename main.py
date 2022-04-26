@@ -10,7 +10,7 @@ regular expresion for URLs = https://www.codegrepper.com/code-examples/python/re
 import spacy
 import re
 import pandas as pd
-from transformers import Data2VecAudioForCTC
+from collections import OrderedDict
 
 # Load English tokenizer, tagger, parser and NER
 nlp = spacy.load("en_core_web_sm")
@@ -51,7 +51,7 @@ print(f'Length of the whole raw data {len(raw_data)}')
 for text in raw_data:
   print(f'Length of the data: {len(text)}')
 
-the_tokens = []
+the_list_of_tokens = []
 # Tokenization of each text
 for text in raw_data:
   doc = nlp(text)
@@ -61,22 +61,20 @@ for text in raw_data:
   doc = [token for token in doc if not token.is_stop and not token.is_punct]
   # Amount of tokens after
   print(f'Amount of tokens after: {len(doc)}')
-  print(type(doc))
-  the_tokens.append(doc)
+  for token in doc:
+    the_list_of_tokens.append(token)
 
-flat_list = []
-for list_of_token in the_tokens:
-  for token in list_of_token:
-    flat_list.append(token)
+print(f'Len of other list of the tokens: {len(the_list_of_tokens)}')
 
-flat_list = flat_list.sort()
-the_list = pd.DataFrame(flat_list, columns=['a'])
-unique_ocurrences = list(the_list.drop_duplicates(keep="first")['a'])
+# Order the list of tokens
+the_list_of_tokens.sort()
+# Left only one occurence
+new_list = pd.unique(the_list_of_tokens).tolist()
 
-file.write(f'Numero de palabras: {len(unique_ocurrences)}')
+file.write(f'Numero de palabras: {len(new_list)}')
 
-for token in unique_ocurrences:
+for token in new_list:
   print(token.text)
-  file.write(token)
+  file.write(token.text)
 
 file.close()
