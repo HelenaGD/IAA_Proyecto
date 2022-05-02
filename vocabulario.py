@@ -6,16 +6,23 @@ ref = https://spacy.io/usage/linguistic-features
 ref = https://www.machinelearningplus.com/spacy-tutorial-nlp/
 ref = https://stackoverflow.com/questions/57231616/valueerror-e088-text-of-length-1027203-exceeds-maximum-of-1000000-spacy
 regular expresion for URLs = https://www.codegrepper.com/code-examples/python/regex+remove+URL
+ref = https://stackoverflow.com/questions/17390326/getting-rid-of-stop-words-and-document-tokenization-using-nltk
 """
 
 # Libraries
 import spacy
+import nltk
+from nltk.corpus import stopwords
+#nltk.download('stopwords')
+#nltk.download('punkt')
 import re
+import string
 import pandas as pd
 from collections import OrderedDict
 
 # Load English tokenizer, tagger, parser and NER
 nlp = spacy.load("en_core_web_sm")
+stop = set(stopwords.words('english') + list(string.punctuation))
 
 data_tweets = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A")
 file = open("vocabulario.txt", "w")
@@ -58,15 +65,21 @@ for text in raw_data:
 the_list_of_tokens = []
 # Tokenization of each text
 for text in raw_data:
-  doc = nlp(text)
+  #doc = nlp(text)
+  # Tokenice with nltk
+  doc = [i for i in nltk.word_tokenize(text.lower()) if (i not in stop and not i.isdigit())]
   # Amount of tokens before
-  print(f'Amount of tokens before: {len(nlp(doc))}')
+  #print(f'Amount of tokens before: {len(nlp(doc))}')
+  print(f'Amount of tokens before: {len(doc)}')
+
   # Remove stopwords, punctuations
-  doc = [token for token in doc if not token.is_stop and not token.is_punct]
+  #doc = [token for token in doc if not token.is_stop and not token.is_punct]
   # Amount of tokens after
   print(f'Amount of tokens after: {len(doc)}')
   for token in doc:
-    the_list_of_tokens.append(token.text)
+    token = re.sub(r'[0-9]', '', token)
+    #the_list_of_tokens.append(token.text)
+    the_list_of_tokens.append(token)
 
 print(f'Len of other list of the tokens: {len(the_list_of_tokens)}')
 
