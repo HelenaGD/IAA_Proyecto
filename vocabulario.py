@@ -10,19 +10,37 @@ ref = https://stackoverflow.com/questions/17390326/getting-rid-of-stop-words-and
 """
 
 # Libraries
+from typing import final
 import spacy
 import nltk
 from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import wordnet
 #nltk.download('stopwords')
 #nltk.download('punkt')
+#nltk.download('wordnet')
+#nltk.download('omw-1.4')
+#nltk.download('averaged_perceptron_tagger')
 import re
 import string
 import pandas as pd
 from collections import OrderedDict
 
+def nltk_pos_tagger(nltk_tag):
+  if nltk_tag.startswith('J'):
+    return wordnet.ADJ
+  elif nltk_tag.startswith('V'):
+    return wordnet.VERB
+  elif nltk_tag.startswith('N'):
+    return wordnet.NOUN
+  elif nltk_tag.startswith('R'):
+    return wordnet.ADV
+  else:          
+    return None
+
 # Load English tokenizer, tagger, parser and NER
-nlp = spacy.load("en_core_web_sm")
 stop = set(stopwords.words('english') + list(string.punctuation))
+lemmantizer = WordNetLemmatizer()
 
 data_tweets = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A")
 file = open("vocabulario.txt", "w")
@@ -88,10 +106,20 @@ the_list_of_tokens.sort()
 # Left only one occurence
 new_list = pd.unique(the_list_of_tokens).tolist()
 
-file.write(f'Numero de palabras: {len(new_list)}\n')
+final_list = []
+# The lemantization
+for word in new_list:
+  nltk_tag = nltk_pos_tagger(nltk.tag.pos_tag([word]))
+  final_list.append(lemmantizer.lemmatize(word))
 
-for token in new_list:
+final_list = pd.unique(final_list).tolist()
+final_list.sort()
+
+file.write(f'Numero de palabras: {len(final_list)}\n')
+
+for token in final_list:
   #print(token)
   file.write(f'{token}\n')
 
 file.close()
+
