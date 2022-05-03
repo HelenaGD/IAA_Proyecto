@@ -3,6 +3,7 @@ import re
 import nltk
 import string
 import time
+import numpy
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
@@ -116,15 +117,82 @@ def corpus_inicial():
     escribir(lista_final_positivos, file_positivos)
     escribir(lista_final_negativos, file_negativos)
 
+def contar(palabra, archivo):
+    contador = 0
+    for linea in archivo:
+        if (palabra == linea):
+            contador += 1
+        # para que no lea hasta el final del archivo
+        if (palabra < linea):
+            return contador
+    return contador
+
+
+def modelo_del_lenguaje():
+    print(f'Abriendo archios')
+    inicio = time.time()
+    file_positivos = open("modelo_lenguaje_P.txt", "w")
+    file_negativos = open("modelo_lenguaje_N.txt", "w")
+
+    # Se abre el archivo del vocabulario
+    file_vocabulario = open("vocabulario.txt", "r")
+    archivos = time.time()
+    print(f'Archivos abiertos {round(archivos - inicio, 2)} s')
+    print(f'Contando palabras en corpus...')
+    # Las listas de palabras están ordenadas
+    contadorUNKP = 0
+    contadorUNKN = 0
+    V = 55002
+    NN = 282768
+    NP = 335608
+    linea = 0
+    MINIMO = 1
+    inicio = time.time()
+    letra_anterior = 'a'
+    for palabra in file_vocabulario:
+        letra = palabra[0]
+        if (letra != letra_anterior):
+            progreso = time.time()
+            print(f'{letra_anterior}. Espera total: {round(progreso - inicio, 2)}s')
+        if (linea == 0):
+            linea += 1
+        else:
+            # Se abren los corpus
+            file_corpus_positivo = open("corpusP.txt", "r")
+            file_corpus_negativo = open("corpusN.txt", "r")
+            contadorP = contar(palabra, file_corpus_positivo)
+            contadorN = contar(palabra, file_corpus_negativo)
+            if contadorN < MINIMO:
+                contadorUNKN += contadorN
+            else:
+                logProbN = numpy.log10((contadorN + 1) / (NN + V))
+                file_negativos.write(f'Palabra: {palabra} Frec: {contadorN} LogProb: {logProbN}\n')
+            if contadorP < MINIMO:
+                contadorUNKP += contadorP
+            else:
+                logProbP = numpy.log10((contadorP + 1) / (NP + V))
+                file_positivos.write(f'Palabra: {palabra} Frec: {contadorP} LogProb: {logProbP}\n')
+            file_corpus_negativo.close()
+            file_corpus_positivo.close()
+        letra_anterior = letra
+    logProbN = numpy.log10((contadorUNKN + 1) / (V + NN))
+    logProbP = numpy.log10((contadorUNKP + 1) / (NP + V))
+    file_negativos.write(f'Palabra: UNK Frec: {contadorUNKN} LogProb: {logProbN}\n')
+    file_positivos.write(f'Palabra: UNK Frec: {contadorUNKP} LogProb: {logProbP}\n')
+    fin = time.time()
+    print(f'Fin. T: {round(fin - archivos, 2)} s')
+    file_vocabulario.close()
+
+
 def main():
-    corpus_inicial()
+    # corpus_inicial()
+    # Una vez se tienen los corpus iniciales, se cuentas las palabras
+    # del vocabulario y se mira cuántas veces aparecen en el corpus
+    modelo_del_lenguaje()
 
 main()
 
 def pruebas():
-    tweet = "Esta...es..una..prueba"
-    print(tweet)
-    tweet_limpio = limpiar(tweet)
-    print(tweet_limpio)
+    print(f'{numpy.log10(10)}')
 
 #pruebas()
