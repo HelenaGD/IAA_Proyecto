@@ -1,0 +1,6777 @@
+Palabra: a
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: ab
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: abc
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: ability
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: able
+ Frec: 144 LogProb: -3.3672530716174323
+Palabra: absolute
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: absolutely
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: absurd
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: abuse
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: abused
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: abusing
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: accelerate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: accelerated
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: accept
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: access
+ Frec: 122 LogProb: -3.4387159624130095
+Palabra: according
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: account
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: accused
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: across
+ Frec: 215 LogProb: -3.1941673227014764
+Palabra: act
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: acted
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: acting
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: action
+ Frec: 112 LogProb: -3.4755426303689876
+Palabra: activity
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: actor
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: actual
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: actually
+ Frec: 114 LogProb: -3.4679232334987957
+Palabra: ad
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: adapt
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: add
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: added
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: adding
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: addition
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: additional
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: address
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: adjust
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: administration
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: adult
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: advance
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: advantage
+ Frec: 127 LogProb: -3.4214111042045388
+Palabra: advertising
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: advice
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: advise
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: advised
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: advising
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: advocate
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: affair
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: affect
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: affected
+ Frec: 144 LogProb: -3.3672530716174323
+Palabra: affecting
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: afford
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: affordable
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: afraid
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: africa
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: african
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: aftermath
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: afternoon
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: ag
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: age
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: agency
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: agent
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: aggressive
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: ago
+ Frec: 81 LogProb: -3.6148072214686904
+Palabra: agree
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: agreed
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: agricultural
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: agriculture
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: ahead
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: ai
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: aid
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: aim
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: air
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: airline
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: airport
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: aisle
+ Frec: 109 LogProb: -3.487228388694182
+Palabra: al
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: alberta
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: alcohol
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: aldi
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: alert
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: alive
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: allah
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: allegedly
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: allergy
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: allow
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: allowed
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: allowing
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: ally
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: almost
+ Frec: 123 LogProb: -3.4351993886901724
+Palabra: alone
+ Frec: 73 LogProb: -3.6593893541214313
+Palabra: along
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: already
+ Frec: 215 LogProb: -3.1941673227014764
+Palabra: also
+ Frec: 392 LogProb: -2.9342285234769805
+Palabra: alternative
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: although
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: always
+ Frec: 94 LogProb: -3.5508974685635595
+Palabra: am
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: amazing
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: amazon
+ Frec: 135 LogProb: -3.3950821654821897
+Palabra: america
+ Frec: 109 LogProb: -3.487228388694182
+Palabra: american
+ Frec: 225 LogProb: -3.1745126347050063
+Palabra: amid
+ Frec: 493 LogProb: -2.8348941249287605
+Palabra: amidst
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: ammo
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: among
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: amongst
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: amount
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: amp
+ Frec: 1996 LogProb: -2.2282430089817047
+Palabra: analysis
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: analyst
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: analytics
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: angry
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: animal
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: announce
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: announced
+ Frec: 76 LogProb: -3.6421303486799252
+Palabra: announcement
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: announces
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: annoying
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: another
+ Frec: 198 LogProb: -3.2297679974427007
+Palabra: answer
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: answered
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: anti
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: anticipate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: anxiety
+ Frec: 128 LogProb: -3.4180313635531583
+Palabra: anxious
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: anybody
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: anymore
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: anyone
+ Frec: 207 LogProb: -3.2105577388896456
+Palabra: anything
+ Frec: 117 LogProb: -3.456739066546282
+Palabra: anyway
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: anywhere
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: apart
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: apartment
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: apocalypse
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: app
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: appalling
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: apparently
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: appeal
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: appear
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: appears
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: apple
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: apply
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: appointment
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: appreciate
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: approach
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: appropriate
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: approved
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: apps
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: april
+ Frec: 102 LogProb: -3.515783849147235
+Palabra: ar
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: arabia
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: area
+ Frec: 147 LogProb: -3.35835935845745
+Palabra: argue
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: arguing
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: arizona
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: arm
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: armed
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: army
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: around
+ Frec: 322 LogProb: -3.0194185515213046
+Palabra: arrest
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: arrested
+ Frec: 78 LogProb: -3.6309939825619657
+Palabra: arrive
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: arrived
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: arsehole
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: article
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: artist
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: as
+ Frec: 76 LogProb: -3.6421303486799252
+Palabra: asap
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: asda
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: ashamed
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: ashley
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: asia
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: asian
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: aside
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: ask
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: asked
+ Frec: 100 LogProb: -3.524299700069765
+Palabra: asking
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: asks
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: ass
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: asset
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: asshole
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: assist
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: assistance
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: associate
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: associated
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: association
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: assume
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: asthma
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: asymptomatic
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: atm
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: attack
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: attacking
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: attempt
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: attempting
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: attention
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: attitude
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: attorney
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: au
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: auction
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: auspol
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: aussie
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: australia
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: australian
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: authority
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: auto
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: automotive
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: availability
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: available
+ Frec: 178 LogProb: -3.275768042872514
+Palabra: average
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: avoid
+ Frec: 245 LogProb: -3.137685966749028
+Palabra: avoiding
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: aware
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: awareness
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: away
+ Frec: 163 LogProb: -3.3137772258047096
+Palabra: awful
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: b
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: baby
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: back
+ Frec: 326 LogProb: -3.014073321192121
+Palabra: bacteria
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: bad
+ Frec: 221 LogProb: -3.1822680994017687
+Palabra: badly
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: bag
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: bailout
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: bakery
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: balance
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: ball
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: ban
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: bank
+ Frec: 380 LogProb: -2.947696098176788
+Palabra: banker
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: banking
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: bankrupt
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: bankruptcy
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: banned
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: bar
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: bare
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: barely
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: bargain
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: barrel
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: base
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: based
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: basic
+ Frec: 113 LogProb: -3.471716222515935
+Palabra: basically
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: basis
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: basket
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: bastard
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: bat
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: bathroom
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: battle
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: battling
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: bay
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: bbc
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: bbcnews
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: bc
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: beach
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: bean
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: bear
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: beat
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: become
+ Frec: 92 LogProb: -3.5601381252984723
+Palabra: becomes
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: becoming
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: bed
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: beef
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: beer
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: began
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: begin
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: beginning
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: begun
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: behave
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: behaving
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: behavior
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: behaviour
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: behind
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: bekind
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: belief
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: believe
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: benchmark
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: benefit
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: besides
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: best
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: bet
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: better
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: beverage
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: beware
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: beyond
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: bid
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: bidding
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: big
+ Frec: 196 LogProb: -3.234154847690814
+Palabra: bigger
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: biggest
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: bill
+ Frec: 114 LogProb: -3.4679232334987957
+Palabra: billion
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: bin
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: bird
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: bit
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: bitch
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: bitcoin
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: bite
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: biz
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: black
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: blame
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: blaming
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: bleach
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: blind
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: block
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: blockchain
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: blocked
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: blocking
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: blog
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: blood
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: bloody
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: blow
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: blue
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: bn
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: board
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: body
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: bog
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: bogus
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: bond
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: book
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: booked
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: booking
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: booming
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: boost
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: border
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: bored
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: boredom
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: boris
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: borisjohnson
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: bos
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: boston
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: bottle
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: bottled
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: bottom
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: bought
+ Frec: 127 LogProb: -3.4214111042045388
+Palabra: bound
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: box
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: boy
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: boycott
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: bracing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: branch
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: brand
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: branding
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: bread
+ Frec: 125 LogProb: -3.4282505287348446
+Palabra: break
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: breakdown
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: breaking
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: breath
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: breathing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: brent
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: brexit
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: brick
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: briefing
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: brilliant
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: bring
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: bringing
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: brings
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: brit
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: britain
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: british
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: briton
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: broke
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: broken
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: brother
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: brought
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: brown
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: btw
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: bubble
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: buck
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: budget
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: build
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: building
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: built
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: bulk
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: bullshit
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: bunch
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: bunker
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: burden
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: bureau
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: bus
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: bushcraft
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: business
+ Frec: 542 LogProb: -2.7938212442635604
+Palabra: busy
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: butcher
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: buy
+ Frec: 644 LogProb: -2.7190613592171395
+Palabra: buyer
+ Frec: 168 LogProb: -3.3007343692387336
+Palabra: buying
+ Frec: 1261 LogProb: -2.427561718944292
+Palabra: c
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: ca
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: cafe
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: cake
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: california
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: californian
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: call
+ Frec: 242 LogProb: -3.143014800254095
+Palabra: called
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: calling
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: calm
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: calpol
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: came
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: campaign
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: campus
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: can
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: canada
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: canadian
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: cancel
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: canceled
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: cancellation
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: cancelled
+ Frec: 73 LogProb: -3.6593893541214313
+Palabra: cancer
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: cannabis
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: canned
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: cant
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: cap
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: capacity
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: capital
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: capitalism
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: capitalist
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: car
+ Frec: 141 LogProb: -3.376332729469351
+Palabra: carbon
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: card
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: care
+ Frec: 137 LogProb: -3.3887419874511706
+Palabra: careful
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: carers
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: carrier
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: carry
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: carrying
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: cart
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: case
+ Frec: 297 LogProb: -3.054404809776152
+Palabra: cash
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: cashier
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: cashing
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: cat
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: catastrophic
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: catch
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: catching
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: category
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: cattle
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: caught
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: cause
+ Frec: 167 LogProb: -3.3033117921265442
+Palabra: caused
+ Frec: 145 LogProb: -3.3642682180679704
+Palabra: causing
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: caution
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: cautious
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: cbc
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: cc
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: ccp
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: cdc
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: cdnpoli
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: celebrity
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: cell
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: cent
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: center
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: central
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: centre
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: ceo
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: certain
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: certainly
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: chain
+ Frec: 377 LogProb: -2.951129274015182
+Palabra: challenge
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: challenging
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: chance
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: change
+ Frec: 203 LogProb: -3.2189909064265083
+Palabra: changed
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: changing
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: channel
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: chaos
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: charge
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: charged
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: charging
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: charity
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: charmin
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: chart
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: chat
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: cheap
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: cheaper
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: cheat
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: check
+ Frec: 188 LogProb: -3.2521592696791632
+Palabra: checking
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: checkout
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: cheese
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: chemical
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: chemist
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: cheque
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: chicago
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: chicken
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: chief
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: child
+ Frec: 96 LogProb: -3.5418493395861623
+Palabra: chill
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: china
+ Frec: 240 LogProb: -3.1466040312775387
+Palabra: chinavirus
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: chinese
+ Frec: 95 LogProb: -3.5463498408128387
+Palabra: chinesevirus
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: chip
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: chloroquine
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: chocolate
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: choice
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: choose
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: christmas
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: church
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: cigarette
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: circle
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: circumstance
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: citizen
+ Frec: 81 LogProb: -3.6148072214686904
+Palabra: city
+ Frec: 133 LogProb: -3.4015162754876
+Palabra: civil
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: claim
+ Frec: 92 LogProb: -3.5601381252984723
+Palabra: claiming
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: class
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: clean
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: cleaner
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: cleaning
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: clear
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: cleared
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: clearing
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: clearly
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: clerk
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: click
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: client
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: climate
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: clock
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: close
+ Frec: 179 LogProb: -3.273348568749101
+Palabra: closed
+ Frec: 149 LogProb: -3.352529814796726
+Palabra: closer
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: closing
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: closure
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: clothes
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: clothing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: cloud
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: clown
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: club
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: clue
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: cnn
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: co
+ Frec: 81 LogProb: -3.6148072214686904
+Palabra: coast
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: code
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: coffee
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: cold
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: cole
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: collapse
+ Frec: 147 LogProb: -3.35835935845745
+Palabra: collapsed
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: collapsing
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: colleague
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: collect
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: collection
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: collective
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: collector
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: college
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: colorado
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: com
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: combat
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: combination
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: combined
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: come
+ Frec: 264 LogProb: -3.105375199915599
+Palabra: comedy
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: comfort
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: comic
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: coming
+ Frec: 161 LogProb: -3.3191060593097763
+Palabra: comment
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: commerce
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: commercial
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: commission
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: committee
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: commodity
+ Frec: 126 LogProb: -3.4248173528964503
+Palabra: common
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: communication
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: community
+ Frec: 150 LogProb: -3.349644126559238
+Palabra: company
+ Frec: 404 LogProb: -2.921166050637739
+Palabra: compare
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: compared
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: compete
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: competition
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: complain
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: complaining
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: complaint
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: complete
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: completely
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: con
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: concern
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: concerned
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: condition
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: conference
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: confidence
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: confirmed
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: confused
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: confusion
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: congress
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: consequence
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: consider
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: considerate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: consideration
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: considered
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: considering
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: conspiracy
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: constant
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: constantly
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: construction
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: consume
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: consumer
+ Frec: 1762 LogProb: -2.2823687615530854
+Palabra: consumption
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: contact
+ Frec: 112 LogProb: -3.4755426303689876
+Palabra: contagion
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: contagious
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: contain
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: containment
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: contamination
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: content
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: context
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: continue
+ Frec: 149 LogProb: -3.352529814796726
+Palabra: continued
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: continues
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: continuing
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: contract
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: contracting
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: contraction
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: contributing
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: control
+ Frec: 129 LogProb: -3.4146777215455706
+Palabra: convenience
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: conversation
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: conviduk
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: cook
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: cooking
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: cool
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: cop
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: cope
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: coping
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: copper
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: copy
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: corn
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: corner
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: corona
+ Frec: 261 LogProb: -3.110319782532662
+Palabra: coronacrisis
+ Frec: 343 LogProb: -2.992062631280877
+Palabra: coronacrisisuk
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: coronaoutbreak
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: coronapocalypse
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: coronapocolypse
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: coronavirus
+ Frec: 6797 LogProb: -1.6962399136053663
+Palabra: coronavirusaus
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: coronavirusaustralia
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: coronaviruschallenge
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: coronavirusindia
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: coronaviruslockdown
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: coronavirusoutbreak
+ Frec: 161 LogProb: -3.3191060593097763
+Palabra: coronavirusoutbreakindia
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: coronaviruspandemic
+ Frec: 170 LogProb: -3.2956249634602535
+Palabra: coronavirusuk
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: coronavirusupdate
+ Frec: 128 LogProb: -3.4180313635531583
+Palabra: coronavirusupdates
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: coronavirususa
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: corp
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: corporate
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: corporation
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: correct
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: corrupt
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: corruption
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: corviduk
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: cost
+ Frec: 154 LogProb: -3.3382893756821157
+Palabra: costco
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: cough
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: coughed
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: coughing
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: could
+ Frec: 511 LogProb: -2.8193511128765767
+Palabra: council
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: count
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: counter
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: countless
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: country
+ Frec: 455 LogProb: -2.8696562311879723
+Palabra: county
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: couple
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: coupled
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: courier
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: course
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: court
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: courtesy
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: cov
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: cover
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: coverage
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: covered
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: covering
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: covid
+ Frec: 8140 LogProb: -1.6179433191097021
+Palabra: covidau
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: covidaus
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: covidcanada
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: covididiots
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: covidindia
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: covidiot
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: covidiots
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: covidout
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: covidpandemic
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: covidsouthafrica
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: covidug
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: coviduk
+ Frec: 113 LogProb: -3.471716222515935
+Palabra: covidus
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: cpg
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: cr
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: crap
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: crash
+ Frec: 79 LogProb: -3.6255310868604638
+Palabra: crashed
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: crashing
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: crazy
+ Frec: 143 LogProb: -3.3702585817571578
+Palabra: cream
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: create
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: created
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: creating
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: credit
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: crime
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: criminal
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: crisis
+ Frec: 1358 LogProb: -2.395401617119913
+Palabra: critical
+ Frec: 130 LogProb: -3.411349778196643
+Palabra: crook
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: crop
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: crore
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: cross
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: crowd
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: crowded
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: crowding
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: crucial
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: crude
+ Frec: 174 LogProb: -3.2855830251661127
+Palabra: crudeoil
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: cruel
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: cruise
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: crush
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: crushed
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: cry
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: crypto
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: culture
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: cunt
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: cuomo
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: cupboard
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: curb
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: curbside
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: cure
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: curfew
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: currency
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: current
+ Frec: 151 LogProb: -3.346777485907635
+Palabra: currently
+ Frec: 78 LogProb: -3.6309939825619657
+Palabra: curve
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: customer
+ Frec: 371 LogProb: -2.95807813397051
+Palabra: cut
+ Frec: 297 LogProb: -3.054404809776152
+Palabra: cutting
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: cuz
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: cyber
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: cycle
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: d
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: da
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: dad
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: daily
+ Frec: 128 LogProb: -3.4180313635531583
+Palabra: dairy
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: damage
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: damaged
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: damaging
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: damn
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: danger
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: dangerous
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: dark
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: data
+ Frec: 96 LogProb: -3.5418493395861623
+Palabra: date
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: daughter
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: david
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: dawn
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: day
+ Frec: 737 LogProb: -2.6605647120293656
+Palabra: de
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: dead
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: deadly
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: deal
+ Frec: 155 LogProb: -3.3354964754979455
+Palabra: dealer
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: dealing
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: dealt
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: dear
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: death
+ Frec: 206 LogProb: -3.2126507283954897
+Palabra: debt
+ Frec: 109 LogProb: -3.487228388694182
+Palabra: decade
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: decent
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: decide
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: decided
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: decision
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: deck
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: declaration
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: declared
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: decline
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: declined
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: declining
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: decrease
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: deep
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: deeply
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: defeat
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: defense
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: deficit
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: definitely
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: delay
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: delayed
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: delhi
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: deliberately
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: deliver
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: delivered
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: delivering
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: delivery
+ Frec: 507 LogProb: -2.822757361568488
+Palabra: demand
+ Frec: 1306 LogProb: -2.412345486271863
+Palabra: demanding
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: democrat
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: denied
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: denmark
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: department
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: depend
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: deposit
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: depressed
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: depression
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: dept
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: deserve
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: designed
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: desk
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: despair
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: desperate
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: desperation
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: despicable
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: despite
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: destroy
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: destroyed
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: destroying
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: destruction
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: detail
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: devastating
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: develop
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: developed
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: developing
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: development
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: device
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: devil
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: dey
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: diabetes
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: diary
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: dick
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: die
+ Frec: 207 LogProb: -3.2105577388896456
+Palabra: died
+ Frec: 150 LogProb: -3.349644126559238
+Palabra: diesel
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: diet
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: difference
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: different
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: difficult
+ Frec: 114 LogProb: -3.4679232334987957
+Palabra: difficulty
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: digital
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: dilemma
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: dining
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: dinner
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: dip
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: dire
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: direct
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: direction
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: directly
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: director
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: dirty
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: disability
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: disabled
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: disappointed
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: disaster
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: discount
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: discovered
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: discus
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: discussion
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: disease
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: disgrace
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: disgraceful
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: disgusted
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: disgusting
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: disinfect
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: disinfectant
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: disinfecting
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: display
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: dispute
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: disrupt
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: disrupted
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: disruption
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: distance
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: distancing
+ Frec: 229 LogProb: -3.1668932378348145
+Palabra: distribute
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: distribution
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: distributor
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: district
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: disturbing
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: dividend
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: division
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: dm
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: doctor
+ Frec: 119 LogProb: -3.4494398278047824
+Palabra: dog
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: dollar
+ Frec: 57 LogProb: -3.7651930802894698
+Palabra: domestic
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: donald
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: donate
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: donated
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: donating
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: donation
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: done
+ Frec: 110 LogProb: -3.48329809506575
+Palabra: dont
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: door
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: double
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: doubled
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: doubling
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: doubt
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: doug
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: dow
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: download
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: downturn
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: downward
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: dozen
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: dr
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: drain
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: dramatic
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: dramatically
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: drastic
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: drastically
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: dream
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: drink
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: drinking
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: drive
+ Frec: 142 LogProb: -3.3732850363873457
+Palabra: driven
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: driver
+ Frec: 144 LogProb: -3.3672530716174323
+Palabra: driving
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: drop
+ Frec: 322 LogProb: -3.0194185515213046
+Palabra: dropped
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: dropping
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: drove
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: drug
+ Frec: 128 LogProb: -3.4180313635531583
+Palabra: dry
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: dude
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: due
+ Frec: 853 LogProb: -2.597163203163402
+Palabra: dumb
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: dump
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: dumped
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: dumping
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: duration
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: dutch
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: duty
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: dwindling
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: dy
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: dying
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: e
+ Frec: 103 LogProb: -3.511587734553627
+Palabra: earlier
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: early
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: earn
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: earnings
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: earth
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: earthquake
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: ease
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: easily
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: east
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: easter
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: easy
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: eat
+ Frec: 101 LogProb: -3.5200209020904896
+Palabra: eating
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: ebay
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: ecommerce
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: economic
+ Frec: 250 LogProb: -3.128947352371369
+Palabra: economics
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: economist
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: economy
+ Frec: 376 LogProb: -2.9522797236466145
+Palabra: educate
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: education
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: effect
+ Frec: 137 LogProb: -3.3887419874511706
+Palabra: effective
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: effort
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: eg
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: egg
+ Frec: 147 LogProb: -3.35835935845745
+Palabra: either
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: elderly
+ Frec: 197 LogProb: -3.231955883590876
+Palabra: election
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: electric
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: electricity
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: electronics
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: else
+ Frec: 146 LogProb: -3.361303739104231
+Palabra: elsewhere
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: em
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: email
+ Frec: 106 LogProb: -3.499237296167198
+Palabra: emerge
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: emergency
+ Frec: 292 LogProb: -3.061753453498298
+Palabra: emerging
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: emotional
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: employed
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: employee
+ Frec: 330 LogProb: -3.0087930800766887
+Palabra: employer
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: employment
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: emptied
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: empty
+ Frec: 473 LogProb: -2.8528427321783223
+Palabra: emptying
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: emptyshelves
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: encourage
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: end
+ Frec: 206 LogProb: -3.2126507283954897
+Palabra: ended
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: ending
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: enemy
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: energy
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: enforce
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: enforcement
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: engage
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: england
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: enough
+ Frec: 315 LogProb: -3.0289339912340036
+Palabra: ensure
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: enter
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: entered
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: entering
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: entire
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: entrance
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: entry
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: environment
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: epidemic
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: episode
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: equipment
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: equity
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: era
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: escape
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: especially
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: essential
+ Frec: 492 LogProb: -2.8357741545751773
+Palabra: essentialworkers
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: estate
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: estimate
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: estimated
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: et
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: etc
+ Frec: 194 LogProb: -3.2385864624898892
+Palabra: ethanol
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: ethic
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: eu
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: euro
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: europe
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: european
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: even
+ Frec: 511 LogProb: -2.8193511128765767
+Palabra: evening
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: event
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: eventually
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: ever
+ Frec: 126 LogProb: -3.4248173528964503
+Palabra: every
+ Frec: 332 LogProb: -3.0061768403460873
+Palabra: everybody
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: everyday
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: everyone
+ Frec: 386 LogProb: -2.9409101088334957
+Palabra: everything
+ Frec: 200 LogProb: -3.2254250164319185
+Palabra: everywhere
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: eviction
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: evidence
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: evil
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: evolving
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: exactly
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: examines
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: example
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: except
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: exception
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: excess
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: excessive
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: exchange
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: exclusive
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: excuse
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: exec
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: executive
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: exercise
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: exhausted
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: exist
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: existing
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: exorbitant
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: expanded
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: expect
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: expectation
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: expected
+ Frec: 84 LogProb: -3.5992021481381147
+Palabra: expecting
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: expects
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: expense
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: expensive
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: experience
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: experienced
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: experiencing
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: expert
+ Frec: 115 LogProb: -3.464163084625489
+Palabra: explain
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: explaining
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: explains
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: exploit
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: exploiting
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: explore
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: export
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: expose
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: exposed
+ Frec: 73 LogProb: -3.6593893541214313
+Palabra: exposing
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: exposure
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: express
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: extended
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: extortionate
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: extra
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: extreme
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: extremely
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: eye
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: f
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: face
+ Frec: 305 LogProb: -3.0428996473708274
+Palabra: facebook
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: faced
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: facemasks
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: facility
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: facing
+ Frec: 112 LogProb: -3.4755426303689876
+Palabra: fact
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: factor
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: factory
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: fail
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: failed
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: failing
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: fails
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: failure
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: fair
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: faith
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: fake
+ Frec: 111 LogProb: -3.4794030511822256
+Palabra: fall
+ Frec: 195 LogProb: -3.236365002495931
+Palabra: fallen
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: falling
+ Frec: 148 LogProb: -3.355434805440133
+Palabra: fallout
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: false
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: family
+ Frec: 334 LogProb: -3.003576266815562
+Palabra: fan
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: fao
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: far
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: fare
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: farm
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: farmer
+ Frec: 164 LogProb: -3.311137129638501
+Palabra: farming
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: fashion
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: fast
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: faster
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: fatality
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: father
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: fault
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: favourite
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: fb
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: fda
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: fear
+ Frec: 372 LogProb: -2.9569122420437197
+Palabra: feb
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: february
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: fed
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: federal
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: fee
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: feed
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: feeding
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: feel
+ Frec: 160 LogProb: -3.3217951978205575
+Palabra: feeling
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: fell
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: fellow
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: felt
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: fever
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: fewer
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: ffs
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: field
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: fight
+ Frec: 277 LogProb: -3.084576277934331
+Palabra: fightcovid
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: fighting
+ Frec: 113 LogProb: -3.471716222515935
+Palabra: figure
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: fiji
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: fijian
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: file
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: filed
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: fill
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: filled
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: filling
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: film
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: final
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: finally
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: finance
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: financial
+ Frec: 168 LogProb: -3.3007343692387336
+Palabra: financially
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: find
+ Frec: 281 LogProb: -3.078371965533046
+Palabra: finding
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: fine
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: fined
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: finger
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: finish
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: finished
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: finland
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: fire
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: fired
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: firm
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: first
+ Frec: 271 LogProb: -3.0940521698182084
+Palabra: fiscal
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: fish
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: fisherman
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: fit
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: five
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: fix
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: fixed
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: flat
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: flatten
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: flattenthecurve
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: flight
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: flood
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: flooding
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: floor
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: florida
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: flour
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: flow
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: flower
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: flu
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: fly
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: flying
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: focus
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: focusing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: folk
+ Frec: 79 LogProb: -3.6255310868604638
+Palabra: follow
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: followed
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: following
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: food
+ Frec: 3708 LogProb: -1.9593642405237972
+Palabra: foodbank
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: foodbanks
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: foodsecurity
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: foodshortages
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: foodstuff
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: foodwaste
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: fool
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: foot
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: football
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: force
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: forced
+ Frec: 144 LogProb: -3.3672530716174323
+Palabra: forcing
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: ford
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: forecast
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: foreclosure
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: foreign
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: forever
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: forget
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: forgot
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: forgotten
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: form
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: former
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: formula
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: forward
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: found
+ Frec: 97 LogProb: -3.5373949981599124
+Palabra: founder
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: four
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: fox
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: fracking
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: france
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: francisco
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: fraud
+ Frec: 119 LogProb: -3.4494398278047824
+Palabra: fraudsters
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: fraudulent
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: freak
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: freaking
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: free
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: freeze
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: freezer
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: french
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: frenzy
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: frequently
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: fresh
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: friday
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: fridaythoughts
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: fridge
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: friend
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: frightening
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: front
+ Frec: 119 LogProb: -3.4494398278047824
+Palabra: frontline
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: frozen
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: fruit
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: frustrating
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: ft
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: ftc
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: fuck
+ Frec: 162 LogProb: -3.3164334694484494
+Palabra: fucked
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: fucker
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: fucking
+ Frec: 132 LogProb: -3.4047694328853213
+Palabra: fuel
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: fueled
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: full
+ Frec: 237 LogProb: -3.1520441167958952
+Palabra: fully
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: fun
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: fund
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: funding
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: funeral
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: funny
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: future
+ Frec: 106 LogProb: -3.499237296167198
+Palabra: g
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: gain
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: gallon
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: game
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: gap
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: garbage
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: garden
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: gas
+ Frec: 335 LogProb: -3.0022817964625634
+Palabra: gasoline
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: gasprices
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: gate
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: gathering
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: gave
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: gaza
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: gdp
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: gear
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: gel
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: general
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: generation
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: genius
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: genuinely
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: george
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: germ
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: german
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: germany
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: get
+ Frec: 1201 LogProb: -2.4487166061856867
+Palabra: getting
+ Frec: 306 LogProb: -3.0414826983752206
+Palabra: ghana
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: giant
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: gift
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: girl
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: give
+ Frec: 185 LogProb: -3.259108129634491
+Palabra: given
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: giving
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: glad
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: glass
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: global
+ Frec: 401 LogProb: -2.9243950207679372
+Palabra: globally
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: globe
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: glove
+ Frec: 194 LogProb: -3.2385864624898892
+Palabra: go
+ Frec: 1000 LogProb: -2.5281869963730887
+Palabra: god
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: going
+ Frec: 869 LogProb: -2.589101821233789
+Palabra: gold
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: gon
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: gone
+ Frec: 114 LogProb: -3.4679232334987957
+Palabra: good
+ Frec: 389 LogProb: -2.937556466825908
+Palabra: google
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: gop
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: got
+ Frec: 301 LogProb: -3.0486141308952566
+Palabra: gotten
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: gouging
+ Frec: 173 LogProb: -3.2880718255698076
+Palabra: gov
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: government
+ Frec: 438 LogProb: -2.886156553610286
+Palabra: governor
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: govt
+ Frec: 140 LogProb: -3.3794019611970274
+Palabra: grab
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: grade
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: grain
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: grandparent
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: grapple
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: grateful
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: great
+ Frec: 76 LogProb: -3.6421303486799252
+Palabra: greater
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: greed
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: greedy
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: green
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: grip
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: grocer
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: grocery
+ Frec: 2241 LogProb: -2.1779854655934527
+Palabra: groceryshopping
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: grocerystore
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: grocerystores
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: ground
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: group
+ Frec: 131 LogProb: -3.4080471426465575
+Palabra: grow
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: growing
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: grows
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: growth
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: gt
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: guaranteed
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: guard
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: guardian
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: guess
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: guidance
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: guide
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: guideline
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: guilty
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: gun
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: guy
+ Frec: 106 LogProb: -3.499237296167198
+Palabra: gym
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: h
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: habit
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: hacker
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: hair
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: half
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: halt
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: halted
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: hand
+ Frec: 404 LogProb: -2.921166050637739
+Palabra: handle
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: handling
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: handsanitizer
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: handwash
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: handy
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: hang
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: happen
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: happened
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: happening
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: happens
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: happy
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: hard
+ Frec: 181 LogProb: -3.2685496858673324
+Palabra: harder
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: hardest
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: hardship
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: harm
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: hate
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: havoc
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: hazard
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: head
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: headed
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: heading
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: headline
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: health
+ Frec: 355 LogProb: -2.9771710758795322
+Palabra: healthcare
+ Frec: 132 LogProb: -3.4047694328853213
+Palabra: healthy
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: hear
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: heard
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: hearing
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: heart
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: heartbreaking
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: heavily
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: heavy
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: held
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: hell
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: hello
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: help
+ Frec: 362 LogProb: -2.9687144488162946
+Palabra: helped
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: helpful
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: helping
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: herd
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: hero
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: hey
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: hi
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: hiding
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: high
+ Frec: 362 LogProb: -2.9687144488162946
+Palabra: higher
+ Frec: 127 LogProb: -3.4214111042045388
+Palabra: highest
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: highlight
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: highly
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: hike
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: hiked
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: hiking
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: hill
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: hindustan
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: hire
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: hiring
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: historic
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: history
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: hit
+ Frec: 251 LogProb: -3.1272205330708633
+Palabra: hitting
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: hoard
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: hoarded
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: hoarder
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: hoarding
+ Frec: 273 LogProb: -3.090870511032019
+Palabra: hoax
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: hold
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: holding
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: hole
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: holiday
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: holy
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: home
+ Frec: 849 LogProb: -2.5992021481381147
+Palabra: homeless
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: honestly
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: hong
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: hope
+ Frec: 118 LogProb: -3.4530741124598765
+Palabra: hopefully
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: hoping
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: hording
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: horrible
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: horror
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: hospital
+ Frec: 173 LogProb: -3.2880718255698076
+Palabra: hospitality
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: host
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: hot
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: hotel
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: hotline
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: hour
+ Frec: 286 LogProb: -3.070739177118415
+Palabra: house
+ Frec: 227 LogProb: -3.1706862268519536
+Palabra: household
+ Frec: 101 LogProb: -3.5200209020904896
+Palabra: housing
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: houston
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: however
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: hr
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: hub
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: huge
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: hul
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: human
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: humanity
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: humble
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: humor
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: hundred
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: hunger
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: hungry
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: hunt
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: hurricane
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: hurt
+ Frec: 57 LogProb: -3.7651930802894698
+Palabra: hurting
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: husband
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: hygiene
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: hysteria
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: ice
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: iceland
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: icis
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: icu
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: icymi
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: id
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: idea
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: idiot
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: ie
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: ignorance
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: ignorant
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: ignore
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: ignored
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: ignoring
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: ill
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: illegal
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: illinois
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: illness
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: im
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: image
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: imagine
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: immediate
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: immediately
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: immigrant
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: immune
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: impact
+ Frec: 342 LogProb: -2.9933269538096368
+Palabra: impacted
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: impacting
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: impending
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: implement
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: implemented
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: implication
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: import
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: importance
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: important
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: imported
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: importer
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: impose
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: imposed
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: impossible
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: inadequate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: incident
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: include
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: included
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: includes
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: including
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: income
+ Frec: 103 LogProb: -3.511587734553627
+Palabra: incompetent
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: increase
+ Frec: 204 LogProb: -3.216867212796653
+Palabra: increased
+ Frec: 136 LogProb: -3.3919005066960004
+Palabra: increasing
+ Frec: 97 LogProb: -3.5373949981599124
+Palabra: increasingly
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: incredible
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: incredibly
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: independent
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: index
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: india
+ Frec: 167 LogProb: -3.3033117921265442
+Palabra: indiafightscorona
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: indian
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: individual
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: indoors
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: induced
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: industrial
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: industry
+ Frec: 227 LogProb: -3.1706862268519536
+Palabra: inevitable
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: infect
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: infected
+ Frec: 110 LogProb: -3.48329809506575
+Palabra: infection
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: inflate
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: inflated
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: inflating
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: inflation
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: info
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: information
+ Frec: 131 LogProb: -3.4080471426465575
+Palabra: informed
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: infrastructure
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: ingredient
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: initial
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: insane
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: insanity
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: insecurity
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: inside
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: insight
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: instead
+ Frec: 108 LogProb: -3.4911945759117837
+Palabra: insurance
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: intensifies
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: intentionally
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: interaction
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: interest
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: interested
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: interesting
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: international
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: internet
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: interview
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: introduce
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: introduced
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: inventory
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: invest
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: investigate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: investigation
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: investing
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: investment
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: investor
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: involving
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: iowa
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: iran
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: iranian
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: iraq
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: ireland
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: irresponsible
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: island
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: isle
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: isnt
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: isolate
+ Frec: 76 LogProb: -3.6421303486799252
+Palabra: isolated
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: isolating
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: isolation
+ Frec: 187 LogProb: -3.2544632245887275
+Palabra: issue
+ Frec: 161 LogProb: -3.3191060593097763
+Palabra: issued
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: issuing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: italian
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: italy
+ Frec: 87 LogProb: -3.5841384017022384
+Palabra: item
+ Frec: 359 LogProb: -2.9723185730851203
+Palabra: jack
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: jacking
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: jail
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: james
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: january
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: japan
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: jerk
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: jersey
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: job
+ Frec: 363 LogProb: -2.967519690203351
+Palabra: jobless
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: joe
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: john
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: johnson
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: join
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: joined
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: joint
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: joke
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: judge
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: juice
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: jump
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: k
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: karen
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: karma
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: keep
+ Frec: 441 LogProb: -2.8831988045033152
+Palabra: keeping
+ Frec: 76 LogProb: -3.6421303486799252
+Palabra: kenya
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: kenyan
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: kept
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: key
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: kg
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: kick
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: kid
+ Frec: 134 LogProb: -3.398287305357401
+Palabra: kill
+ Frec: 174 LogProb: -3.2855830251661127
+Palabra: killed
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: killer
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: killing
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: kind
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: king
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: kit
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: kitchen
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: knew
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: knock
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: know
+ Frec: 473 LogProb: -2.8528427321783223
+Palabra: knowing
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: knowledge
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: known
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: kong
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: korea
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: kr
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: kroger
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: l
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: la
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: lab
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: label
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: labor
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: labour
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: lack
+ Frec: 97 LogProb: -3.5373949981599124
+Palabra: lady
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: lagos
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: laid
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: land
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: landlord
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: large
+ Frec: 79 LogProb: -3.6255310868604638
+Palabra: largely
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: larger
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: largest
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: last
+ Frec: 354 LogProb: -2.9783927207973133
+Palabra: lasting
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: late
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: lately
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: later
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: latest
+ Frec: 137 LogProb: -3.3887419874511706
+Palabra: laugh
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: launch
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: launched
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: law
+ Frec: 95 LogProb: -3.5463498408128387
+Palabra: lawsuit
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: lawyer
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: lay
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: layoff
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: lb
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: le
+ Frec: 158 LogProb: -3.3272239495319558
+Palabra: lead
+ Frec: 95 LogProb: -3.5463498408128387
+Palabra: leader
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: leadership
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: leading
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: leaf
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: learn
+ Frec: 117 LogProb: -3.456739066546282
+Palabra: learned
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: learning
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: least
+ Frec: 140 LogProb: -3.3794019611970274
+Palabra: leave
+ Frec: 197 LogProb: -3.231955883590876
+Palabra: leaving
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: led
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: left
+ Frec: 198 LogProb: -3.2297679974427007
+Palabra: legal
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: legislation
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: lender
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: lesson
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: let
+ Frec: 268 LogProb: -3.0988687938499995
+Palabra: letter
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: letting
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: lettuce
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: level
+ Frec: 139 LogProb: -3.3824930381741694
+Palabra: license
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: lick
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: licking
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: lidl
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: lie
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: lied
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: life
+ Frec: 312 LogProb: -3.0330767363059588
+Palabra: lift
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: light
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: like
+ Frec: 616 LogProb: -2.7383359098191655
+Palabra: likely
+ Frec: 146 LogProb: -3.361303739104231
+Palabra: limit
+ Frec: 137 LogProb: -3.3887419874511706
+Palabra: limited
+ Frec: 108 LogProb: -3.4911945759117837
+Palabra: limiting
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: line
+ Frec: 283 LogProb: -3.0753027338053696
+Palabra: lingers
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: lining
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: link
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: linked
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: liquidity
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: liquor
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: list
+ Frec: 112 LogProb: -3.4755426303689876
+Palabra: listed
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: listen
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: listening
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: listing
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: literally
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: litre
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: little
+ Frec: 130 LogProb: -3.411349778196643
+Palabra: live
+ Frec: 159 LogProb: -3.3245010911964825
+Palabra: lived
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: livelihood
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: living
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: lng
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: load
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: loaf
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: loan
+ Frec: 57 LogProb: -3.7651930802894698
+Palabra: local
+ Frec: 439 LogProb: -2.8851683973662197
+Palabra: location
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: lock
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: lockdown
+ Frec: 512 LogProb: -2.818503708740591
+Palabra: lockdowneffect
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: lockdownuk
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: lockdownuknow
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: locked
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: locust
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: logic
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: logistics
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: lol
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: london
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: lonely
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: long
+ Frec: 251 LogProb: -3.1272205330708633
+Palabra: longer
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: loo
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: look
+ Frec: 267 LogProb: -3.1004862798236186
+Palabra: looked
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: looking
+ Frec: 130 LogProb: -3.411349778196643
+Palabra: looming
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: looting
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: los
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: lose
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: loses
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: losing
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: loss
+ Frec: 125 LogProb: -3.4282505287348446
+Palabra: lost
+ Frec: 131 LogProb: -3.4080471426465575
+Palabra: lot
+ Frec: 239 LogProb: -3.148409832140801
+Palabra: love
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: loved
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: low
+ Frec: 532 LogProb: -2.801893864825835
+Palabra: lower
+ Frec: 219 LogProb: -3.186198393030201
+Palabra: lowered
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: lowering
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: lowest
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: lt
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: lunch
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: lung
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: luxury
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: lying
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: lysol
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: m
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: machine
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: mad
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: made
+ Frec: 160 LogProb: -3.3217951978205575
+Palabra: madness
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: maga
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: mail
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: main
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: maintain
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: maintaining
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: major
+ Frec: 131 LogProb: -3.4080471426465575
+Palabra: majority
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: make
+ Frec: 488 LogProb: -2.839312214728787
+Palabra: maker
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: making
+ Frec: 241 LogProb: -3.144805707871976
+Palabra: malaysia
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: malicious
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: mall
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: man
+ Frec: 184 LogProb: -3.2614493454493934
+Palabra: manage
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: managed
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: management
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: manager
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: managing
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: manner
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: manufacturer
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: manufacturing
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: many
+ Frec: 556 LogProb: -2.782765878678678
+Palabra: mar
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: march
+ Frec: 214 LogProb: -3.196182613936802
+Palabra: margin
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: mark
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: market
+ Frec: 620 LogProb: -2.735529473675827
+Palabra: marketing
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: marketplace
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: mart
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: maryland
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: mask
+ Frec: 569 LogProb: -2.772746218179916
+Palabra: mass
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: massachusetts
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: massive
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: material
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: matter
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: max
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: maximum
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: may
+ Frec: 389 LogProb: -2.937556466825908
+Palabra: maybe
+ Frec: 101 LogProb: -3.5200209020904896
+Palabra: mayor
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: mb
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: mckinsey
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: md
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: meal
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: mean
+ Frec: 170 LogProb: -3.2956249634602535
+Palabra: meaning
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: meant
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: meanwhile
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: measure
+ Frec: 149 LogProb: -3.352529814796726
+Palabra: meat
+ Frec: 145 LogProb: -3.3642682180679704
+Palabra: med
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: medical
+ Frec: 212 LogProb: -3.2002414704136695
+Palabra: medication
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: medicine
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: medium
+ Frec: 142 LogProb: -3.3732850363873457
+Palabra: meet
+ Frec: 114 LogProb: -3.4679232334987957
+Palabra: meeting
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: member
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: meme
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: men
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: mental
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: mention
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: mentioned
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: merchant
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: mess
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: message
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: met
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: metal
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: meter
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: method
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: metre
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: metro
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: mexico
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: michael
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: michigan
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: mid
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: middle
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: midnight
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: midst
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: might
+ Frec: 157 LogProb: -3.3299639868979845
+Palabra: migrant
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: mike
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: mild
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: mile
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: military
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: milk
+ Frec: 197 LogProb: -3.231955883590876
+Palabra: million
+ Frec: 190 LogProb: -3.24758770660468
+Palabra: min
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: mind
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: mine
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: miner
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: mini
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: minimum
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: mining
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: minister
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: ministry
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: minnesota
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: minute
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: misery
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: misinformation
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: misleading
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: miss
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: missed
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: missing
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: mission
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: mistake
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: mitigate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: mixed
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: ml
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: mobile
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: mode
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: model
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: modi
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: mom
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: moment
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: monday
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: money
+ Frec: 321 LogProb: -3.0207652021565763
+Palabra: monitor
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: monitoring
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: month
+ Frec: 302 LogProb: -3.0471784453501023
+Palabra: monthly
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: moody
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: moratorium
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: morning
+ Frec: 152 LogProb: -3.3439296430348087
+Palabra: moron
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: morrison
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: mortar
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: mortgage
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: moscow
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: mostly
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: mother
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: mounting
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: mouth
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: move
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: moved
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: movement
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: movie
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: moving
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: mp
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: mr
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: much
+ Frec: 315 LogProb: -3.0289339912340036
+Palabra: multi
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: multiple
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: mum
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: mumbai
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: museveni
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: music
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: muslim
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: must
+ Frec: 231 LogProb: -3.1631330889615077
+Palabra: n
+ Frec: 129 LogProb: -3.4146777215455706
+Palabra: na
+ Frec: 141 LogProb: -3.376332729469351
+Palabra: name
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: nation
+ Frec: 130 LogProb: -3.411349778196643
+Palabra: national
+ Frec: 103 LogProb: -3.511587734553627
+Palabra: nationwide
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: natural
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: nature
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: nd
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: near
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: nearest
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: nearly
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: necessary
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: necessity
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: need
+ Frec: 1230 LogProb: -2.438363020921091
+Palabra: needed
+ Frec: 111 LogProb: -3.4794030511822256
+Palabra: needing
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: needy
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: negative
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: neighbor
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: neighborhood
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: neighbour
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: neither
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: nervous
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: net
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: netflix
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: network
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: never
+ Frec: 199 LogProb: -3.227591078188426
+Palabra: new
+ Frec: 606 LogProb: -2.7454323827771496
+Palabra: news
+ Frec: 359 LogProb: -2.9723185730851203
+Palabra: next
+ Frec: 234 LogProb: -3.157553211580671
+Palabra: nh
+ Frec: 114 LogProb: -3.4679232334987957
+Palabra: nice
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: nigeria
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: nigerian
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: night
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: nine
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: nj
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: nobody
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: nofood
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: non
+ Frec: 116 LogProb: -3.460435212106246
+Palabra: none
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: nonprofit
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: nonsense
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: noodle
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: nope
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: normal
+ Frec: 138 LogProb: -3.385606273598312
+Palabra: normally
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: north
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: northern
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: nose
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: note
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: nothing
+ Frec: 167 LogProb: -3.3033117921265442
+Palabra: notice
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: noticed
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: novel
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: nowhere
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: number
+ Frec: 149 LogProb: -3.352529814796726
+Palabra: nurse
+ Frec: 160 LogProb: -3.3217951978205575
+Palabra: nut
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: ny
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: nyc
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: nz
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: obesity
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: obvious
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: obviously
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: ocado
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: odd
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: offer
+ Frec: 102 LogProb: -3.515783849147235
+Palabra: offered
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: offering
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: office
+ Frec: 101 LogProb: -3.5200209020904896
+Palabra: officer
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: official
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: officially
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: offline
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: offset
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: often
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: oh
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: ohio
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: oil
+ Frec: 1142 LogProb: -2.4705748434571255
+Palabra: oilandgas
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: oilprice
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: oilprices
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: oilpricewar
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: ok
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: okay
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: old
+ Frec: 158 LogProb: -3.3272239495319558
+Palabra: older
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: oman
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: omg
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: one
+ Frec: 867 LogProb: -2.5901013486759155
+Palabra: ongoing
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: onion
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: online
+ Frec: 954 LogProb: -2.5486177022686607
+Palabra: onlineshopping
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: ontario
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: onto
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: oott
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: op
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: opec
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: open
+ Frec: 217 LogProb: -3.1901645802478025
+Palabra: opened
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: opening
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: operate
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: operating
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: operation
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: operator
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: opinion
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: opportunistic
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: opportunity
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: opposite
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: option
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: orange
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: order
+ Frec: 305 LogProb: -3.0428996473708274
+Palabra: ordered
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: ordering
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: oregon
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: organisation
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: organization
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: others
+ Frec: 217 LogProb: -3.1901645802478025
+Palabra: otherwise
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: outbreak
+ Frec: 433 LogProb: -2.8911313443398967
+Palabra: outlet
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: outlook
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: output
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: outrageous
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: outside
+ Frec: 113 LogProb: -3.471716222515935
+Palabra: overall
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: overcome
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: overnight
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: overseas
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: oversupply
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: overwhelming
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: owner
+ Frec: 79 LogProb: -3.6255310868604638
+Palabra: oz
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: p
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: pa
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: pace
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: pack
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: package
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: packaged
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: packaging
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: packed
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: packet
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: page
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: paid
+ Frec: 127 LogProb: -3.4214111042045388
+Palabra: pain
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: pair
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: pakistan
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: pandemic
+ Frec: 1207 LogProb: -2.446554139567294
+Palabra: panic
+ Frec: 2089 LogProb: -2.2084747877413533
+Palabra: panicbuyers
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: panicbuying
+ Frec: 174 LogProb: -3.2855830251661127
+Palabra: panicbuyinguk
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: panickbuying
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: panickbuyinguk
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: panicked
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: panicking
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: panicshopping
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: pantry
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: paper
+ Frec: 561 LogProb: -2.778884758283346
+Palabra: paracetamol
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: paramedic
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: paranoid
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: parcel
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: parent
+ Frec: 96 LogProb: -3.5418493395861623
+Palabra: park
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: parking
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: part
+ Frec: 148 LogProb: -3.355434805440133
+Palabra: particular
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: particularly
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: partner
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: party
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: pas
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: pass
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: passed
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: passenger
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: passing
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: past
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: pasta
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: pathetic
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: patience
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: patient
+ Frec: 75 LogProb: -3.6478074815716157
+Palabra: pattern
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: pay
+ Frec: 316 LogProb: -3.027561811634656
+Palabra: paycheck
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: paying
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: payment
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: pc
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: peak
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: penalty
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: pennsylvania
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: pension
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: people
+ Frec: 2713 LogProb: -2.095011230528689
+Palabra: per
+ Frec: 184 LogProb: -3.2614493454493934
+Palabra: percent
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: percentage
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: perfect
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: performance
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: perhaps
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: period
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: perishable
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: permanent
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: permanently
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: permitted
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: person
+ Frec: 169 LogProb: -3.2981721524741334
+Palabra: personal
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: personally
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: personnel
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: perspective
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: pet
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: petition
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: petrochemical
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: petrol
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: petroleum
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: pharma
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: pharmaceutical
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: pharmacist
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: pharmacy
+ Frec: 115 LogProb: -3.464163084625489
+Palabra: phase
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: phishing
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: phone
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: photo
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: physical
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: pic
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: pick
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: picked
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: picking
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: pickup
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: picture
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: piece
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: pile
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: piling
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: piss
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: pissed
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: pizza
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: place
+ Frec: 241 LogProb: -3.144805707871976
+Palabra: placed
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: plague
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: plan
+ Frec: 126 LogProb: -3.4248173528964503
+Palabra: planet
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: planned
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: planning
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: plant
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: plastic
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: platform
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: play
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: player
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: playing
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: plea
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: please
+ Frec: 430 LogProb: -2.8941438036916756
+Palabra: pledge
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: plenty
+ Frec: 105 LogProb: -3.503315208587637
+Palabra: pls
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: plummet
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: plummeted
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: plummeting
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: plunge
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: plunged
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: plunging
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: plus
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: ply
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: plz
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: pm
+ Frec: 126 LogProb: -3.4248173528964503
+Palabra: po
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: pocket
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: podcast
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: point
+ Frec: 139 LogProb: -3.3824930381741694
+Palabra: police
+ Frec: 159 LogProb: -3.3245010911964825
+Palabra: policy
+ Frec: 109 LogProb: -3.487228388694182
+Palabra: politely
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: political
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: politician
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: politics
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: poll
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: pollution
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: poor
+ Frec: 140 LogProb: -3.3794019611970274
+Palabra: pop
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: popular
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: population
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: pork
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: port
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: pose
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: position
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: positive
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: possibility
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: possible
+ Frec: 100 LogProb: -3.524299700069765
+Palabra: possibly
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: post
+ Frec: 182 LogProb: -3.266169984121978
+Palabra: postal
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: posted
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: posting
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: postpone
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: postponed
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: potato
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: potential
+ Frec: 73 LogProb: -3.6593893541214313
+Palabra: potentially
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: poultry
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: pound
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: poverty
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: power
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: ppe
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: ppl
+ Frec: 122 LogProb: -3.4387159624130095
+Palabra: pr
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: practice
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: practicing
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: prank
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: pray
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: prayer
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: pre
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: precaution
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: predict
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: pregnant
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: premier
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: premium
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: preparation
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: prepare
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: prepared
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: preparedness
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: preparing
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: prepper
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: preppers
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: prescription
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: present
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: president
+ Frec: 102 LogProb: -3.515783849147235
+Palabra: press
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: pressure
+ Frec: 103 LogProb: -3.511587734553627
+Palabra: pretty
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: prevent
+ Frec: 92 LogProb: -3.5601381252984723
+Palabra: preventing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: prevention
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: previous
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: previously
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: price
+ Frec: 4354 LogProb: -1.8896329145087252
+Palabra: priced
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: pricegouging
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: pricing
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: prime
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: print
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: prior
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: priority
+ Frec: 57 LogProb: -3.7651930802894698
+Palabra: prison
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: privacy
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: private
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: probably
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: problem
+ Frec: 218 LogProb: -3.188176959012289
+Palabra: process
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: processing
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: processor
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: produce
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: produced
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: producer
+ Frec: 97 LogProb: -3.5373949981599124
+Palabra: producing
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: product
+ Frec: 460 LogProb: -2.864920148462759
+Palabra: production
+ Frec: 150 LogProb: -3.349644126559238
+Palabra: prof
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: professional
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: professor
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: profit
+ Frec: 92 LogProb: -3.5601381252984723
+Palabra: profiteer
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: profiteering
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: profiting
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: program
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: project
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: promotion
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: prompt
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: prompted
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: proof
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: prop
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: proper
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: properly
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: property
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: proposal
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: proposed
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: prosecuted
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: protect
+ Frec: 126 LogProb: -3.4248173528964503
+Palabra: protected
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: protecting
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: protection
+ Frec: 181 LogProb: -3.2685496858673324
+Palabra: protective
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: protest
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: prove
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: provide
+ Frec: 87 LogProb: -3.5841384017022384
+Palabra: provided
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: provider
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: provides
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: providing
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: province
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: provision
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: psa
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: psychology
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: pub
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: public
+ Frec: 286 LogProb: -3.070739177118415
+Palabra: published
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: publix
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: pull
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: pulse
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: pump
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: punch
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: purchase
+ Frec: 115 LogProb: -3.464163084625489
+Palabra: purchased
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: purchasing
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: pure
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: purell
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: purpose
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: purposefully
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: push
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: pushed
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: pushing
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: put
+ Frec: 253 LogProb: -3.123787357232469
+Palabra: putin
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: putting
+ Frec: 138 LogProb: -3.385606273598312
+Palabra: q
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: qatar
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: qualify
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: quality
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: quantity
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: quarantine
+ Frec: 250 LogProb: -3.128947352371369
+Palabra: quarantined
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: quarantinelife
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: quaratinelife
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: quarentinelife
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: quarter
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: question
+ Frec: 105 LogProb: -3.503315208587637
+Palabra: queue
+ Frec: 124 LogProb: -3.431711060844351
+Palabra: queuing
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: quick
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: quickly
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: quit
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: quite
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: r
+ Frec: 150 LogProb: -3.349644126559238
+Palabra: race
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: racism
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: racist
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: railway
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: raise
+ Frec: 87 LogProb: -3.5841384017022384
+Palabra: raised
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: raising
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: rally
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: ramp
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: ramping
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: ran
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: random
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: range
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: rant
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: rapid
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: rapidly
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: rate
+ Frec: 115 LogProb: -3.464163084625489
+Palabra: rather
+ Frec: 67 LogProb: -3.696112161146171
+Palabra: ration
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: rationing
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: raw
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: rd
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: reach
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: reached
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: react
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: reaction
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: read
+ Frec: 277 LogProb: -3.084576277934331
+Palabra: reader
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: reading
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: ready
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: real
+ Frec: 171 LogProb: -3.2930926269448584
+Palabra: realestate
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: realise
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: reality
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: realize
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: really
+ Frec: 290 LogProb: -3.0647280848665
+Palabra: reason
+ Frec: 117 LogProb: -3.456739066546282
+Palabra: reasonable
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: rebound
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: receive
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: received
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: receiving
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: recent
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: recently
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: recession
+ Frec: 161 LogProb: -3.3191060593097763
+Palabra: recipe
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: recommendation
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: recommended
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: record
+ Frec: 76 LogProb: -3.6421303486799252
+Palabra: recover
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: recovered
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: recovery
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: red
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: reduce
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: reduced
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: reducing
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: reduction
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: reflect
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: reform
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: refugee
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: refund
+ Frec: 71 LogProb: -3.671288577421139
+Palabra: refuse
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: refused
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: refusing
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: regarding
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: regardless
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: regime
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: region
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: register
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: regular
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: regulation
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: reject
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: related
+ Frec: 195 LogProb: -3.236365002495931
+Palabra: relation
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: relationship
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: relative
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: relatively
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: release
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: released
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: relevant
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: relief
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: rely
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: remain
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: remains
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: remember
+ Frec: 122 LogProb: -3.4387159624130095
+Palabra: remind
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: reminder
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: remote
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: remove
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: removed
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: rent
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: rental
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: rep
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: report
+ Frec: 361 LogProb: -2.9699125033192417
+Palabra: reported
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: reporter
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: reporting
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: republican
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: request
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: require
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: required
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: research
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: researcher
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: reserve
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: resident
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: residential
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: resilient
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: resource
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: respect
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: respirator
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: respiratory
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: respond
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: responder
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: responding
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: response
+ Frec: 210 LogProb: -3.2043386185547145
+Palabra: responsibility
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: responsible
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: responsibly
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: rest
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: restaurant
+ Frec: 182 LogProb: -3.266169984121978
+Palabra: restock
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: restocking
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: restrict
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: restricted
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: restriction
+ Frec: 87 LogProb: -3.5841384017022384
+Palabra: result
+ Frec: 128 LogProb: -3.4180313635531583
+Palabra: resulted
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: resulting
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: retail
+ Frec: 423 LogProb: -2.9012552172596746
+Palabra: retailer
+ Frec: 184 LogProb: -3.2614493454493934
+Palabra: return
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: returned
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: returning
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: retweet
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: reusable
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: reuters
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: reveal
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: reveals
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: revenue
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: review
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: revolution
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: rice
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: rich
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: richard
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: ride
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: ridiculous
+ Frec: 104 LogProb: -3.5074317747824693
+Palabra: right
+ Frec: 362 LogProb: -2.9687144488162946
+Palabra: riot
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: rip
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: rise
+ Frec: 177 LogProb: -3.2782010715435135
+Palabra: risen
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: rising
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: risk
+ Frec: 477 LogProb: -2.8491931772402883
+Palabra: risking
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: rn
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: road
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: rob
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: robocalls
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: rock
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: role
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: roll
+ Frec: 220 LogProb: -3.1842288001672965
+Palabra: roof
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: room
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: rose
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: rot
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: round
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: route
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: routine
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: row
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: rt
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: rude
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: ruin
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: rule
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: rumour
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: run
+ Frec: 172 LogProb: -3.290574970723612
+Palabra: running
+ Frec: 129 LogProb: -3.4146777215455706
+Palabra: rural
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: rush
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: rushing
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: russia
+ Frec: 166 LogProb: -3.305904602704824
+Palabra: russian
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: s
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: sa
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: sad
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: sadly
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: safe
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: safety
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: said
+ Frec: 323 LogProb: -3.018076063645795
+Palabra: sainsbury
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: sainsburys
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: sake
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: salary
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: sale
+ Frec: 208 LogProb: -3.2084747877413533
+Palabra: sam
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: sample
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: san
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: sanction
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: sanitation
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: sanitiser
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: sanitisers
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: sanitize
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: sanitizer
+ Frec: 412 LogProb: -2.9126710221960064
+Palabra: sanitizers
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: sanitizing
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: sars
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: sarscov
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: sat
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: saturday
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: saturdaymorning
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: saudi
+ Frec: 136 LogProb: -3.3919005066960004
+Palabra: saudiarabia
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: save
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: saving
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: saw
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: say
+ Frec: 588 LogProb: -2.7585057790653056
+Palabra: saying
+ Frec: 116 LogProb: -3.460435212106246
+Palabra: scale
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: scam
+ Frec: 527 LogProb: -2.805987151318595
+Palabra: scammer
+ Frec: 118 LogProb: -3.4530741124598765
+Palabra: scarce
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: scarcity
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: scare
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: scared
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: scary
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: scenario
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: scene
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: schedule
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: scheduled
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: scheme
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: school
+ Frec: 106 LogProb: -3.499237296167198
+Palabra: science
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: scientist
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: scramble
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: scrap
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: screen
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: screwed
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: scum
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: seafood
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: search
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: season
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: seasonal
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: seattle
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: second
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: secretary
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: section
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: sector
+ Frec: 130 LogProb: -3.411349778196643
+Palabra: security
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: see
+ Frec: 499 LogProb: -2.8296510695163883
+Palabra: seed
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: seeing
+ Frec: 155 LogProb: -3.3354964754979455
+Palabra: seek
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: seeking
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: seem
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: seems
+ Frec: 78 LogProb: -3.6309939825619657
+Palabra: seen
+ Frec: 197 LogProb: -3.231955883590876
+Palabra: self
+ Frec: 238 LogProb: -3.1502231729042696
+Palabra: selfish
+ Frec: 229 LogProb: -3.1668932378348145
+Palabra: selfishness
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: selfisolation
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: selfquarantine
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: sell
+ Frec: 112 LogProb: -3.4755426303689876
+Palabra: seller
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: selling
+ Frec: 203 LogProb: -3.2189909064265083
+Palabra: senate
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: senator
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: send
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: sending
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: senior
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: sense
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: sensible
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: sent
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: sentiment
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: series
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: serious
+ Frec: 101 LogProb: -3.5200209020904896
+Palabra: seriously
+ Frec: 138 LogProb: -3.385606273598312
+Palabra: serve
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: service
+ Frec: 395 LogProb: -2.930925887926895
+Palabra: serving
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: session
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: set
+ Frec: 115 LogProb: -3.464163084625489
+Palabra: setting
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: settle
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: several
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: severe
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: severely
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: severity
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: sh
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: shake
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: shale
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: shall
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: shame
+ Frec: 116 LogProb: -3.460435212106246
+Palabra: shameful
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: share
+ Frec: 132 LogProb: -3.4047694328853213
+Palabra: shared
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: sharing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: sharp
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: sharply
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: shed
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: sheet
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: shelf
+ Frec: 774 LogProb: -2.639319371346097
+Palabra: shelter
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: shelterinplace
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: shield
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: shift
+ Frec: 118 LogProb: -3.4530741124598765
+Palabra: shifted
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: shifting
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: ship
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: shipment
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: shipping
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: shirt
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: shit
+ Frec: 198 LogProb: -3.2297679974427007
+Palabra: shitty
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: shock
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: shocked
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: shocking
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: shoe
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: shoot
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: shop
+ Frec: 607 LogProb: -2.7447174945796724
+Palabra: shopkeeper
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: shopped
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: shopper
+ Frec: 179 LogProb: -3.273348568749101
+Palabra: shopping
+ Frec: 1056 LogProb: -2.504546086544981
+Palabra: short
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: shortage
+ Frec: 443 LogProb: -2.8812381037377874
+Palabra: shot
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: shout
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: show
+ Frec: 160 LogProb: -3.3217951978205575
+Palabra: showed
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: shower
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: showing
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: shown
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: shut
+ Frec: 105 LogProb: -3.503315208587637
+Palabra: shutdown
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: shutting
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: sick
+ Frec: 246 LogProb: -3.1359241205927417
+Palabra: sickening
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: side
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: sight
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: sign
+ Frec: 102 LogProb: -3.515783849147235
+Palabra: signed
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: significant
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: significantly
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: silver
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: similar
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: simple
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: simply
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: since
+ Frec: 309 LogProb: -3.0372593800181344
+Palabra: singapore
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: single
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: sink
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: sir
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: sister
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: sit
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: site
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: sitting
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: situation
+ Frec: 175 LogProb: -3.2831084060382576
+Palabra: six
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: size
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: skin
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: sky
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: skyrocket
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: skyrocketed
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: skyrocketing
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: slash
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: slashed
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: slashing
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: sleep
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: slot
+ Frec: 129 LogProb: -3.4146777215455706
+Palabra: slow
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: slowdown
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: slowed
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: slowing
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: slowly
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: slump
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: sm
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: small
+ Frec: 148 LogProb: -3.355434805440133
+Palabra: smaller
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: smart
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: smh
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: snack
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: sneeze
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: sneezing
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: soap
+ Frec: 105 LogProb: -3.503315208587637
+Palabra: soar
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: soaring
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: social
+ Frec: 405 LogProb: -2.9200950402752133
+Palabra: socialdistanacing
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: socialdistancing
+ Frec: 247 LogProb: -3.134169393026191
+Palabra: socialism
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: socially
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: socialmedia
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: society
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: software
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: sold
+ Frec: 102 LogProb: -3.515783849147235
+Palabra: soldier
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: solidarity
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: solution
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: solve
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: somebody
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: someone
+ Frec: 155 LogProb: -3.3354964754979455
+Palabra: something
+ Frec: 132 LogProb: -3.4047694328853213
+Palabra: sometimes
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: son
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: soon
+ Frec: 111 LogProb: -3.4794030511822256
+Palabra: sooner
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: sorry
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: sort
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: sound
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: soup
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: source
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: south
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: space
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: spain
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: spanish
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: spare
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: spark
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: sparked
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: speak
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: speaking
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: speaks
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: special
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: specific
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: speed
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: spend
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: spending
+ Frec: 171 LogProb: -3.2930926269448584
+Palabra: spent
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: spike
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: spirit
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: spit
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: spitting
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: spoke
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: sport
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: spot
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: spray
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: spread
+ Frec: 393 LogProb: -2.933124852026833
+Palabra: spreading
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: spring
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: spur
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: spy
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: square
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: st
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: stabilize
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: stable
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: staff
+ Frec: 327 LogProb: -3.0127472301407283
+Palabra: stage
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: stakeholder
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: stall
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: stamp
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: stand
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: standard
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: standing
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: staple
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: star
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: start
+ Frec: 173 LogProb: -3.2880718255698076
+Palabra: started
+ Frec: 95 LogProb: -3.5463498408128387
+Palabra: starting
+ Frec: 80 LogProb: -3.6201360549737576
+Palabra: startup
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: starvation
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: starve
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: starving
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: state
+ Frec: 336 LogProb: -3.0009911729810685
+Palabra: statement
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: statewide
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: station
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: status
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: stay
+ Frec: 412 LogProb: -2.9126710221960064
+Palabra: stayathome
+ Frec: 104 LogProb: -3.5074317747824693
+Palabra: stayathomesavelives
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: stayhome
+ Frec: 111 LogProb: -3.4794030511822256
+Palabra: stayhomechallenge
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: stayhomesavelives
+ Frec: 108 LogProb: -3.4911945759117837
+Palabra: stayhomestaysafe
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: staying
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: staysafe
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: staysafestayhome
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: steal
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: stealing
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: steel
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: steep
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: step
+ Frec: 72 LogProb: -3.665298213731951
+Palabra: stepping
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: stick
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: still
+ Frec: 526 LogProb: -2.806810458639861
+Palabra: stimulus
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: stock
+ Frec: 846 LogProb: -2.6007376635217003
+Palabra: stocked
+ Frec: 96 LogProb: -3.5418493395861623
+Palabra: stocker
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: stocking
+ Frec: 62 LogProb: -3.7292805243988254
+Palabra: stockmarket
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: stockpile
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: stockpiled
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: stockpilers
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: stockpiling
+ Frec: 123 LogProb: -3.4351993886901724
+Palabra: stockpilinguk
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: stockup
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: stolen
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: stop
+ Frec: 830 LogProb: -2.6090200500682963
+Palabra: stophoarding
+ Frec: 140 LogProb: -3.3794019611970274
+Palabra: stoppanicbuying
+ Frec: 109 LogProb: -3.487228388694182
+Palabra: stopped
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: stopping
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: stopstockpiling
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: stopthespread
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: storage
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: store
+ Frec: 2718 LogProb: -2.0942118662649074
+Palabra: storm
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: story
+ Frec: 115 LogProb: -3.464163084625489
+Palabra: straight
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: strain
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: strained
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: strange
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: stranger
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: strategy
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: streaming
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: street
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: stress
+ Frec: 84 LogProb: -3.5992021481381147
+Palabra: stressed
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: stressful
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: stricken
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: strict
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: strike
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: stripped
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: stripping
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: strong
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: struck
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: struggle
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: struggled
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: struggling
+ Frec: 155 LogProb: -3.3354964754979455
+Palabra: stuck
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: student
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: study
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: stuff
+ Frec: 118 LogProb: -3.4530741124598765
+Palabra: stupid
+ Frec: 89 LogProb: -3.5743785644130823
+Palabra: stupidity
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: style
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: substitute
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: suck
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: sudden
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: suddenly
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: suffer
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: suffering
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: sugar
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: suggest
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: suggestion
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: suggests
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: suit
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: summer
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: sun
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: sunday
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: sundaythoughts
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: super
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: supermarket
+ Frec: 3041 LogProb: -2.0454618641354276
+Palabra: supplier
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: supply
+ Frec: 988 LogProb: -2.533424782255228
+Palabra: supplychain
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: supplying
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: support
+ Frec: 96 LogProb: -3.5418493395861623
+Palabra: supported
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: supporting
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: suppose
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: supposed
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: sure
+ Frec: 123 LogProb: -3.4351993886901724
+Palabra: surely
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: surface
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: surge
+ Frec: 141 LogProb: -3.376332729469351
+Palabra: surged
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: surgical
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: surging
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: surplus
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: surprise
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: surprised
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: surrounding
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: survey
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: survival
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: survive
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: susceptible
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: suspect
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: suspected
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: suspend
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: suspended
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: suspension
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: sustainability
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: sweep
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: swing
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: switch
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: sydney
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: symptom
+ Frec: 82 LogProb: -3.6095429814763333
+Palabra: system
+ Frec: 125 LogProb: -3.4282505287348446
+Palabra: ta
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: table
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: tackle
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: tactic
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: take
+ Frec: 506 LogProb: -2.8236131145190715
+Palabra: takeaway
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: taken
+ Frec: 88 LogProb: -3.5792310672074943
+Palabra: takeout
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: taking
+ Frec: 234 LogProb: -3.157553211580671
+Palabra: talk
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: talking
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: tank
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: target
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: targeted
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: targeting
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: tariff
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: task
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: taste
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: tax
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: taxi
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: taxpayer
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: teacher
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: team
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: tear
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: tearful
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: tech
+ Frec: 33 LogProb: -3.997142156810152
+Palabra: technology
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: teen
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: teenager
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: tell
+ Frec: 104 LogProb: -3.5074317747824693
+Palabra: telling
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: temp
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: temperature
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: temporarily
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: temporary
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: ten
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: tenant
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: tension
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: term
+ Frec: 108 LogProb: -3.4911945759117837
+Palabra: terrible
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: terrified
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: terrifying
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: territory
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: terror
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: terrorism
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: terroristic
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: tesco
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: test
+ Frec: 139 LogProb: -3.3824930381741694
+Palabra: tested
+ Frec: 69 LogProb: -3.6835230338381506
+Palabra: testing
+ Frec: 96 LogProb: -3.5418493395861623
+Palabra: texas
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: text
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: th
+ Frec: 90 LogProb: -3.5695796815313137
+Palabra: thailand
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: thank
+ Frec: 86 LogProb: -3.589101821233789
+Palabra: thanks
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: thats
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: theater
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: theft
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: theory
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: there
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: therefore
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: thermometer
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: thing
+ Frec: 439 LogProb: -2.8851683973662197
+Palabra: think
+ Frec: 423 LogProb: -2.9012552172596746
+Palabra: thinking
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: third
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: tho
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: though
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: thought
+ Frec: 171 LogProb: -3.2930926269448584
+Palabra: thousand
+ Frec: 64 LogProb: -3.715707717209552
+Palabra: thread
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: threat
+ Frec: 117 LogProb: -3.456739066546282
+Palabra: threaten
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: threatened
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: threatening
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: threatens
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: three
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: throughout
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: throw
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: throwing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: thrown
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: thru
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: thursday
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: thursdaythoughts
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: ticket
+ Frec: 40 LogProb: -3.9158372171326716
+Palabra: till
+ Frec: 59 LogProb: -3.7504698234687637
+Palabra: time
+ Frec: 1221 LogProb: -2.441549867945872
+Palabra: tin
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: tinned
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: tip
+ Frec: 125 LogProb: -3.4282505287348446
+Palabra: tired
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: tissue
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: today
+ Frec: 503 LogProb: -2.826190537406882
+Palabra: together
+ Frec: 111 LogProb: -3.4794030511822256
+Palabra: toilet
+ Frec: 597 LogProb: -2.7519198898639963
+Palabra: toiletpaper
+ Frec: 441 LogProb: -2.8831988045033152
+Palabra: toiletpaperapocalypse
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: toiletpapercrisis
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: toiletpaperemergency
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: toiletpaperpanic
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: toiletroll
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: toiletry
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: tokyo
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: told
+ Frec: 179 LogProb: -3.273348568749101
+Palabra: toll
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: tomato
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: tomorrow
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: ton
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: tonight
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: took
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: tool
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: top
+ Frec: 81 LogProb: -3.6148072214686904
+Palabra: toronto
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: total
+ Frec: 63 LogProb: -3.72244109986852
+Palabra: totally
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: touch
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: touched
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: touching
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: tough
+ Frec: 39 LogProb: -3.926561082524445
+Palabra: tourism
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: toward
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: towards
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: towel
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: town
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: tp
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: track
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: tracking
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: trade
+ Frec: 109 LogProb: -3.487228388694182
+Palabra: trader
+ Frec: 94 LogProb: -3.5508974685635595
+Palabra: trading
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: traditional
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: traffic
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: tragedy
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: tragic
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: train
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: training
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: transit
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: transmission
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: transport
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: transportation
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: trash
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: travel
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: treat
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: treated
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: treating
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: treatment
+ Frec: 68 LogProb: -3.689771983115152
+Palabra: trend
+ Frec: 78 LogProb: -3.6309939825619657
+Palabra: trending
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: trick
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: tried
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: trigger
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: triggered
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: trillion
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: trip
+ Frec: 111 LogProb: -3.4794030511822256
+Palabra: triple
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: trolley
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: trouble
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: truce
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: truck
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: trucker
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: true
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: truly
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: trump
+ Frec: 262 LogProb: -3.1086653253626495
+Palabra: trumpvirus
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: trust
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: truth
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: try
+ Frec: 131 LogProb: -3.4080471426465575
+Palabra: trying
+ Frec: 231 LogProb: -3.1631330889615077
+Palabra: tuesday
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: tumble
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: tumbled
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: tune
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: turbo
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: turkey
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: turmoil
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: turn
+ Frec: 66 LogProb: -3.7025462711515806
+Palabra: turned
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: turning
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: tv
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: twat
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: tweet
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: twice
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: twitter
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: two
+ Frec: 266 LogProb: -3.102109812487832
+Palabra: type
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: u
+ Frec: 1194 LogProb: -2.451253168568251
+Palabra: uae
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: uber
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: uganda
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: ugly
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: uk
+ Frec: 367 LogProb: -2.9627732551788895
+Palabra: uklockdown
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: ultimate
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: ultimately
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: ultra
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: un
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: unable
+ Frec: 58 LogProb: -3.7577690622102633
+Palabra: unacceptable
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: unavailable
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: unbelievable
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: uncertain
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: uncertainty
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: underlying
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: understand
+ Frec: 103 LogProb: -3.511587734553627
+Palabra: understanding
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: unemployed
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: unemployment
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: unexpected
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: unfair
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: unfortunately
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: unilever
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: union
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: unique
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: unit
+ Frec: 29 LogProb: -4.0514998191327445
+Palabra: united
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: university
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: unknown
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: unless
+ Frec: 60 LogProb: -3.7432912388416404
+Palabra: unlike
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: unlikely
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: unnecessarily
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: unnecessary
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: unprecedented
+ Frec: 85 LogProb: -3.5941226226088396
+Palabra: unrest
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: unsolicited
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: update
+ Frec: 125 LogProb: -3.4282505287348446
+Palabra: updated
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: upon
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: ups
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: upset
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: uptick
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: ur
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: urge
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: urged
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: urgent
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: urging
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: us
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: usa
+ Frec: 77 LogProb: -3.6365264711619267
+Palabra: usage
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: usd
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: use
+ Frec: 274 LogProb: -3.0892883800221447
+Palabra: used
+ Frec: 124 LogProb: -3.431711060844351
+Palabra: useless
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: user
+ Frec: 25 LogProb: -4.113647725881589
+Palabra: using
+ Frec: 163 LogProb: -3.3137772258047096
+Palabra: usual
+ Frec: 65 LogProb: -3.7090771383105388
+Palabra: usually
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: utility
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: utter
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: v
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: vacation
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: vaccine
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: valley
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: value
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: van
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: vancouver
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: various
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: veg
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: vegan
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: vegetable
+ Frec: 84 LogProb: -3.5992021481381147
+Palabra: vegetarian
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: veggie
+ Frec: 23 LogProb: -4.148409832140802
+Palabra: vehicle
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: vendor
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: venezuela
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: ventilator
+ Frec: 49 LogProb: -3.8296510695163883
+Palabra: venture
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: version
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: via
+ Frec: 495 LogProb: -2.83313939736221
+Palabra: victim
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: video
+ Frec: 130 LogProb: -3.411349778196643
+Palabra: view
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: village
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: violation
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: violence
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: viral
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: virtual
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: virtually
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: virus
+ Frec: 539 LogProb: -2.796227314029439
+Palabra: visit
+ Frec: 107 LogProb: -3.4951973183654577
+Palabra: visited
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: visiting
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: vital
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: voice
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: volatile
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: volatility
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: volume
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: volunteer
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: vote
+ Frec: 26 LogProb: -4.09725730969342
+Palabra: voting
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: voucher
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: vulnerability
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: vulnerable
+ Frec: 277 LogProb: -3.084576277934331
+Palabra: w
+ Frec: 164 LogProb: -3.311137129638501
+Palabra: wage
+ Frec: 78 LogProb: -3.6309939825619657
+Palabra: wait
+ Frec: 93 LogProb: -3.5554932202527088
+Palabra: waiting
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: waitrose
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: wake
+ Frec: 70 LogProb: -3.677362725133332
+Palabra: walk
+ Frec: 79 LogProb: -3.6255310868604638
+Palabra: walked
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: walking
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: wall
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: wallet
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: walmart
+ Frec: 97 LogProb: -3.5373949981599124
+Palabra: wan
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: wanker
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: want
+ Frec: 298 LogProb: -3.0529498855279775
+Palabra: wanted
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: wanting
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: war
+ Frec: 236 LogProb: -3.1538727278423035
+Palabra: warehouse
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: warn
+ Frec: 41 LogProb: -3.9053717834545068
+Palabra: warned
+ Frec: 56 LogProb: -3.772746218179916
+Palabra: warning
+ Frec: 123 LogProb: -3.4351993886901724
+Palabra: warns
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: wash
+ Frec: 83 LogProb: -3.6043417877905255
+Palabra: washing
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: washington
+ Frec: 37 LogProb: -3.948837477235597
+Palabra: washyourhands
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: waste
+ Frec: 97 LogProb: -3.5373949981599124
+Palabra: wasted
+ Frec: 27 LogProb: -4.081463042510188
+Palabra: wasting
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: watch
+ Frec: 119 LogProb: -3.4494398278047824
+Palabra: watchdog
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: watched
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: watching
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: water
+ Frec: 140 LogProb: -3.3794019611970274
+Palabra: wave
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: way
+ Frec: 366 LogProb: -2.9639550096003178
+Palabra: weak
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: weapon
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: wear
+ Frec: 98 LogProb: -3.5329858792548574
+Palabra: wearing
+ Frec: 122 LogProb: -3.4387159624130095
+Palabra: weather
+ Frec: 24 LogProb: -4.13068106518037
+Palabra: webinar
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: website
+ Frec: 91 LogProb: -3.564833246506852
+Palabra: wednesday
+ Frec: 36 LogProb: -3.960419349785412
+Palabra: week
+ Frec: 732 LogProb: -2.6635170992112793
+Palabra: weekend
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: weekly
+ Frec: 47 LogProb: -3.84737983647682
+Palabra: wegmans
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: weight
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: weird
+ Frec: 42 LogProb: -3.895152618272821
+Palabra: welfare
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: well
+ Frec: 200 LogProb: -3.2254250164319185
+Palabra: went
+ Frec: 285 LogProb: -3.0722550407233644
+Palabra: west
+ Frec: 35 LogProb: -3.97231857308512
+Palabra: western
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: wet
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: wfh
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: whammy
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: whatever
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: whatsapp
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: wheat
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: whenever
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: whether
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: whilst
+ Frec: 38 LogProb: -3.937556466825908
+Palabra: white
+ Frec: 46 LogProb: -3.85652321591669
+Palabra: whoever
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: whole
+ Frec: 99 LogProb: -3.528621073852407
+Palabra: wholesale
+ Frec: 28 LogProb: -4.0662230759534514
+Palabra: whose
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: wide
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: widespread
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: wife
+ Frec: 44 LogProb: -3.8754085600770636
+Palabra: wild
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: willing
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: win
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: window
+ Frec: 18 LogProb: -4.249867472899578
+Palabra: wine
+ Frec: 53 LogProb: -3.796227314029439
+Palabra: wipe
+ Frec: 104 LogProb: -3.5074317747824693
+Palabra: wiped
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: wiping
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: wisconsin
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: wish
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: within
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: without
+ Frec: 202 LogProb: -3.2211250359391945
+Palabra: witness
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: witnessed
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: wk
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: woman
+ Frec: 141 LogProb: -3.376332729469351
+Palabra: wonder
+ Frec: 61 LogProb: -3.7362293843541536
+Palabra: wondering
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: woolworth
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: word
+ Frec: 43 LogProb: -3.8851683973662197
+Palabra: wore
+ Frec: 12 LogProb: -4.41467772154557
+Palabra: work
+ Frec: 710 LogProb: -2.676751473122641
+Palabra: worked
+ Frec: 55 LogProb: -3.780433046846207
+Palabra: worker
+ Frec: 996 LogProb: -2.5299259155407516
+Palabra: workforce
+ Frec: 17 LogProb: -4.2733485687491015
+Palabra: workfromhome
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: working
+ Frec: 339 LogProb: -2.997142156810152
+Palabra: workplace
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: world
+ Frec: 461 LogProb: -2.863979098296282
+Palabra: worldwide
+ Frec: 48 LogProb: -3.8384249938238937
+Palabra: worried
+ Frec: 127 LogProb: -3.4214111042045388
+Palabra: worry
+ Frec: 117 LogProb: -3.456739066546282
+Palabra: worrying
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: worse
+ Frec: 163 LogProb: -3.3137772258047096
+Palabra: worst
+ Frec: 120 LogProb: -3.4458357035359573
+Palabra: worth
+ Frec: 52 LogProb: -3.8043452042516184
+Palabra: would
+ Frec: 444 LogProb: -2.8802610628714755
+Palabra: writes
+ Frec: 30 LogProb: -4.037259380018135
+Palabra: writing
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: wrong
+ Frec: 144 LogProb: -3.3672530716174323
+Palabra: wrote
+ Frec: 16 LogProb: -4.298172152474133
+Palabra: wtf
+ Frec: 74 LogProb: -3.653559810460707
+Palabra: wti
+ Frec: 20 LogProb: -4.206401779118488
+Palabra: wuhan
+ Frec: 19 LogProb: -4.227591078188426
+Palabra: wuhanvirus
+ Frec: 14 LogProb: -4.352529814796726
+Palabra: ww
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: x
+ Frec: 54 LogProb: -3.7882583843581634
+Palabra: ya
+ Frec: 32 LogProb: -4.01010713397452
+Palabra: yall
+ Frec: 10 LogProb: -4.487228388694183
+Palabra: yeah
+ Frec: 15 LogProb: -4.324501091196482
+Palabra: year
+ Frec: 410 LogProb: -2.9147792519763382
+Palabra: yes
+ Frec: 45 LogProb: -3.865863242170833
+Palabra: yesterday
+ Frec: 110 LogProb: -3.48329809506575
+Palabra: yet
+ Frec: 165 LogProb: -3.308512985812352
+Palabra: yo
+ Frec: 22 LogProb: -4.166893237834814
+Palabra: york
+ Frec: 51 LogProb: -3.812617730217608
+Palabra: young
+ Frec: 34 LogProb: -3.9845530295021314
+Palabra: youth
+ Frec: 11 LogProb: -4.449439827804782
+Palabra: yr
+ Frec: 31 LogProb: -4.023471095532502
+Palabra: zero
+ Frec: 50 LogProb: -3.821050897754471
+Palabra: zombie
+ Frec: 21 LogProb: -4.186198393030201
+Palabra: zone
+ Frec: 13 LogProb: -4.382493038174169
+Palabra: UNK Frec: 36936 LogProb: -0.9611594544415785
