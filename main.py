@@ -146,6 +146,7 @@ def modelo_del_lenguaje():
     NN = 282768
     NP = 335608
     linea = 0
+    # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
     MINIMO = 1
     inicio = time.time()
     letra_anterior = 'a'
