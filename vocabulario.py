@@ -7,6 +7,7 @@ ref = https://www.machinelearningplus.com/spacy-tutorial-nlp/
 ref = https://stackoverflow.com/questions/57231616/valueerror-e088-text-of-length-1027203-exceeds-maximum-of-1000000-spacy
 regular expresion for URLs = https://www.codegrepper.com/code-examples/python/regex+remove+URL
 ref = https://stackoverflow.com/questions/17390326/getting-rid-of-stop-words-and-document-tokenization-using-nltk
+types of tags for lemantization = https://stackoverflow.com/questions/29332851/what-does-nn-vbd-in-dt-nns-rb-means-in-nltk
 """
 
 # Libraries
@@ -27,13 +28,14 @@ import pandas as pd
 from collections import OrderedDict
 
 def nltk_pos_tagger(nltk_tag):
-  if nltk_tag.startswith('J'):
+  etiqueta = nltk_tag[0][1]
+  if etiqueta.startswith('J'):
     return wordnet.ADJ
-  elif nltk_tag.startswith('V'):
+  elif etiqueta.startswith('V'):
     return wordnet.VERB
-  elif nltk_tag.startswith('N'):
+  elif etiqueta.startswith('N'):
     return wordnet.NOUN
-  elif nltk_tag.startswith('R'):
+  elif etiqueta.startswith('R'):
     return wordnet.ADV
   else:          
     return None
@@ -75,10 +77,10 @@ for index, data in data_tweets.iterrows():
     amount_of_tweets = 0
     text = ""
 
-print(f'Length of the whole raw data {len(raw_data)}')
+#print(f'Length of the whole raw data {len(raw_data)}')
 # Now I have the text divided
-for text in raw_data:
-  print(f'Length of the data: {len(text)}')
+#for text in raw_data:
+  #print(f'Length of the data: {len(text)}')
 
 the_list_of_tokens = []
 # Tokenization of each text
@@ -88,12 +90,12 @@ for text in raw_data:
   doc = [i for i in nltk.word_tokenize(text.lower()) if (i not in stop and not i.isdigit())]
   # Amount of tokens before
   #print(f'Amount of tokens before: {len(nlp(doc))}')
-  print(f'Amount of tokens before: {len(doc)}')
+  #print(f'Amount of tokens before: {len(doc)}')
 
   # Remove stopwords, punctuations
   #doc = [token for token in doc if not token.is_stop and not token.is_punct]
   # Amount of tokens after
-  print(f'Amount of tokens after: {len(doc)}')
+  #print(f'Amount of tokens after: {len(doc)}')
   for token in doc:
     token = re.sub(r'[0-9]', '', token)
     #the_list_of_tokens.append(token.text)
@@ -115,8 +117,8 @@ for word in new_list:
 final_list = pd.unique(final_list).tolist()
 final_list.sort()
 
+# Write on the file
 file.write(f'Numero de palabras: {len(final_list)}\n')
-
 for token in final_list:
   #print(token)
   file.write(f'{token}\n')
