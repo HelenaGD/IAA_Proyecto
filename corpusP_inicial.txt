@@ -1,4 +1,5 @@
 Numero de documentos (tweets) del corpus: 18046
+Numero de palabras del corpus: 335608
 a
 a
 a

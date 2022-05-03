@@ -53,7 +53,7 @@ def tokenization(corpus):
             the_list_of_tokens.append(token)
     return the_list_of_tokens
 
-def lemantizacion(lista_de_tokens):
+def func_lemantizacion(lista_de_tokens):
     lista_final = []
     lemmantizer = WordNetLemmatizer()
     for word in lista_de_tokens:
@@ -65,17 +65,18 @@ def lemantizacion(lista_de_tokens):
 
 def escribir(lista, archivo):
     # Numero de palabras del corpus
-    palabras_corpus = f'Corpus positivo: {len(lista)}\n'
+    palabras_corpus = f'Numero de palabras del corpus: {len(lista)}\n'
     archivo.write(palabras_corpus)
     for token in lista:
         archivo.write(f'{token}\n')
     archivo.close();
 
-def main():
+def corpus_inicial():
     inicio = time.time()
+    print(f'Cargando datos...')
     corpus = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
-    file_positivos = open("corpusP.txt", "w")
-    file_negativos = open("corpusN.txt", "w")
+    file_positivos = open("corpusP_inicial.txt", "w")
+    file_negativos = open("corpusN_inicial.txt", "w")
 
     corpus_positivo = []
     corpus_negativo = []
@@ -94,23 +95,29 @@ def main():
     cabecera_corpus_negativo = (f'Numero de documentos (tweets) del corpus: {len(corpus_negativo)}\n')
     file_negativos.write(cabecera_corpus_negativo)
     # 15397
-    limpieza = time.time
-    print(f'Tiempo: {limpieza - inicio}')
+    limpieza = time.time()
+    tiempo = round(limpieza - inicio, 2)
+    print(f'Lectura realizada. T: {tiempo}s')
 
     print(f'Realizando la tokenizacion...')
     # Tokenizacion de las palabras de los tweets
     the_list_of_tokens_negativos = tokenization(corpus_negativo)
     the_list_of_tokens_positivos = tokenization(corpus_positivo)
     tokenizacion = time.time()
-    print(f'Tokenizacion realizada. T: {tokenizacion - limpieza}')
+    tiempo = round(tokenizacion - limpieza, 2)
+    print(f'Tokenizacion realizada. T: {tiempo} s')
     print(f'Realizando la lemantizacion...')
     # Lemantizacion de los tweets
-    lista_final_negativos = lemantizacion(the_list_of_tokens_negativos)
-    lista_final_positivos = lemantizacion(the_list_of_tokens_positivos)
+    lista_final_negativos = func_lemantizacion(the_list_of_tokens_negativos)
+    lista_final_positivos = func_lemantizacion(the_list_of_tokens_positivos)
     lemantizacion = time.time()
-    print(f'Lemantizacion realizada. T: {lemantizacion - tokenizacion}')
+    tiempo = round(lemantizacion - tokenizacion, 2)
+    print(f'Lemantizacion realizada. T: {tiempo} s')
     escribir(lista_final_positivos, file_positivos)
     escribir(lista_final_negativos, file_negativos)
+
+def main():
+    corpus_inicial()
 
 main()
 
