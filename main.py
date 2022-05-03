@@ -1,5 +1,24 @@
 import pandas as pd
 import re
+import nltk
+import string
+import time
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import wordnet
+
+def nltk_pos_tagger(nltk_tag):
+  etiqueta = nltk_tag[0][1]
+  if etiqueta.startswith('J'):
+    return wordnet.ADJ
+  elif etiqueta.startswith('V'):
+    return wordnet.VERB
+  elif etiqueta.startswith('N'):
+    return wordnet.NOUN
+  elif etiqueta.startswith('R'):
+    return wordnet.ADV
+  else:          
+    return None
 
 def limpiar(tweet):
     # remove links
@@ -23,8 +42,40 @@ def limpiar(tweet):
     tweet_limpio = ' '.join(tweet_limpio.split())
     return tweet_limpio
 
+def tokenization(corpus):
+    stop = set(stopwords.words('english') + list(string.punctuation))
+    the_list_of_tokens = []
+    for text in corpus:
+        # Tokenice with nltk
+        doc = [i for i in nltk.word_tokenize(text.lower()) if (i not in stop and not i.isdigit())]
+        for token in doc:
+            token = re.sub(r'[0-9]', '', token)
+            the_list_of_tokens.append(token)
+    return the_list_of_tokens
+
+def lemantizacion(lista_de_tokens):
+    lista_final = []
+    lemmantizer = WordNetLemmatizer()
+    for word in lista_de_tokens:
+        nltk_tag = nltk_pos_tagger(nltk.tag.pos_tag([word]))
+        lista_final.append(lemmantizer.lemmatize(word))
+    
+    lista_final.sort()
+    return lista_final
+
+def escribir(lista, archivo):
+    # Numero de palabras del corpus
+    palabras_corpus = f'Corpus positivo: {len(lista)}\n'
+    archivo.write(palabras_corpus)
+    for token in lista:
+        archivo.write(f'{token}\n')
+    archivo.close();
+
 def main():
+    inicio = time.time()
     corpus = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
+    file_positivos = open("corpusP.txt", "w")
+    file_negativos = open("corpusN.txt", "w")
 
     corpus_positivo = []
     corpus_negativo = []
@@ -37,22 +88,29 @@ def main():
             tweet_limpio = limpiar(data[0])
             corpus_negativo.append(tweet_limpio)
 
-    cabecera_corpus_positivo = (f'Numero de documentos del corpus: {len(corpus_positivo)}')
+    cabecera_corpus_positivo = (f'Numero de documentos (tweets) del corpus: {len(corpus_positivo)}\n')
+    file_positivos.write(cabecera_corpus_positivo)
     # 18046
-    cabecera_corpus_negativo = (f'Numero de documentos del corpus: {len(corpus_negativo)}')
+    cabecera_corpus_negativo = (f'Numero de documentos (tweets) del corpus: {len(corpus_negativo)}\n')
+    file_negativos.write(cabecera_corpus_negativo)
     # 15397
+    limpieza = time.time
+    print(f'Tiempo: {limpieza - inicio}')
 
-    # Numero de palabras del corpus
-    palabras_corpus_positivo = 0
-    palabras_corpus_negativo = 0
-    for tweet in corpus_positivo:
-        word = len(tweet.split(' '))
-        palabras_corpus_positivo += word
-    for tweet in corpus_negativo:
-        word = len(tweet.split(' '))
-        palabras_corpus_negativo += word
-    print(f'Corpus positivo: {palabras_corpus_positivo}')
-    print(f'Corpus negativo: {palabras_corpus_negativo}')
+    print(f'Realizando la tokenizacion...')
+    # Tokenizacion de las palabras de los tweets
+    the_list_of_tokens_negativos = tokenization(corpus_negativo)
+    the_list_of_tokens_positivos = tokenization(corpus_positivo)
+    tokenizacion = time.time()
+    print(f'Tokenizacion realizada. T: {tokenizacion - limpieza}')
+    print(f'Realizando la lemantizacion...')
+    # Lemantizacion de los tweets
+    lista_final_negativos = lemantizacion(the_list_of_tokens_negativos)
+    lista_final_positivos = lemantizacion(the_list_of_tokens_positivos)
+    lemantizacion = time.time()
+    print(f'Lemantizacion realizada. T: {lemantizacion - tokenizacion}')
+    escribir(lista_final_positivos, file_positivos)
+    escribir(lista_final_negativos, file_negativos)
 
 main()
 
