@@ -166,18 +166,20 @@ def modelo_del_lenguaje():
             if contadorN < MINIMO:
                 contadorUNKN += contadorN
             else:
-                logProbN = numpy.log10((contadorN + 1) / (NN + V))
+                logProbN = numpy.log((contadorN + 1) / (NN + V))
+                palabra = palabra.strip('\n')
                 file_negativos.write(f'Palabra: {palabra} Frec: {contadorN} LogProb: {logProbN}\n')
             if contadorP < MINIMO:
                 contadorUNKP += contadorP
             else:
-                logProbP = numpy.log10((contadorP + 1) / (NP + V))
+                logProbP = numpy.log((contadorP + 1) / (NP + V))
+                palabra = palabra.strip('\n')
                 file_positivos.write(f'Palabra: {palabra} Frec: {contadorP} LogProb: {logProbP}\n')
             file_corpus_negativo.close()
             file_corpus_positivo.close()
         letra_anterior = letra
-    logProbN = numpy.log10((contadorUNKN + 1) / (V + NN))
-    logProbP = numpy.log10((contadorUNKP + 1) / (NP + V))
+    logProbN = numpy.log((contadorUNKN + 1) / (V + NN))
+    logProbP = numpy.log((contadorUNKP + 1) / (NP + V))
     file_negativos.write(f'Palabra: UNK Frec: {contadorUNKN} LogProb: {logProbN}\n')
     file_positivos.write(f'Palabra: UNK Frec: {contadorUNKP} LogProb: {logProbP}\n')
     fin = time.time()
