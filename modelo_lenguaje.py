@@ -191,7 +191,7 @@ def main():
     # del vocabulario y se mira cuántas veces aparecen en el corpus
     modelo_del_lenguaje()
 
-main()
+#main()
 
 def pruebas():
     print(f'{numpy.log10(10)}')
