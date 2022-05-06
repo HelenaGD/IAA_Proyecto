@@ -145,7 +145,7 @@ def modelo_especifico(diccionario, fichero, N):
     V = 55002
     contadorUNK = 0
     # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 1
+    MINIMO = 10
     for palabra in diccionario:
         if diccionario[palabra] < MINIMO:
             contadorUNK += diccionario[palabra]
