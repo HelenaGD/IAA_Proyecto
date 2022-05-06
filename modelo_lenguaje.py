@@ -117,25 +117,53 @@ def corpus_inicial():
     escribir(lista_final_positivos, file_positivos)
     escribir(lista_final_negativos, file_negativos)
 
-def contar(palabra, archivo):
-    contador = 0
-    for linea in archivo:
-        if (palabra == linea):
-            contador += 1
-        # para que no lea hasta el final del archivo
-        if (palabra < linea):
-            return contador
-    return contador
+def crear_diccionario(nombre_fichero):
+    fichero = open(nombre_fichero, "r")
+    diccionario = {}
+    
+    iterador = 0
+    for line in fichero:
+        line = line.strip('\n')
+        if iterador < 2:
+            iterador += 1
+        else:
+            diccionario[line] = 0
+      
+    fichero.close()
+    fichero = open(nombre_fichero, "r")
+    
+    iterador = 0
+    for line in fichero:
+        line = line.strip('\n')
+        if iterador < 2:
+            iterador += 1
+        else :
+            diccionario[line] += 1
+    return diccionario
 
+def modelo_especifico(diccionario, fichero, N):
+    V = 55002
+    contadorUNK = 0
+    # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
+    MINIMO = 1
+    for palabra in diccionario:
+        if diccionario[palabra] < MINIMO:
+            contadorUNK += diccionario[palabra]
+        else:
+            logProb = numpy.log((diccionario[palabra] + 1) / N + V)
+            fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
+    logProb = ((contadorUNK + 1) / (N + V))
+    fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')     
 
 def modelo_del_lenguaje():
-    print(f'Abriendo archios')
+    print(f'Abriendo archivos')
     inicio = time.time()
     file_positivos = open("modelo_lenguaje_P.txt", "w")
     file_negativos = open("modelo_lenguaje_N.txt", "w")
+    
+    diccionario_positivo = crear_diccionario("corpusP.txt")
+    diccionario_negativo = crear_diccionario("corpusN.txt")
 
-    # Se abre el archivo del vocabulario
-    file_vocabulario = open("vocabulario.txt", "r")
     archivos = time.time()
     print(f'Archivos abiertos {round(archivos - inicio, 2)} s')
     print(f'Contando palabras en corpus...')
@@ -145,46 +173,13 @@ def modelo_del_lenguaje():
     V = 55002
     NN = 282768
     NP = 335608
-    linea = 0
-    # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 10
     inicio = time.time()
-    letra_anterior = 'a'
-    for palabra in file_vocabulario:
-        letra = palabra[0]
-        if (letra != letra_anterior):
-            progreso = time.time()
-            print(f'{letra_anterior}. Espera total: {round(progreso - inicio, 2)}s')
-        if (linea == 0):
-            linea += 1
-        else:
-            # Se abren los corpus
-            file_corpus_positivo = open("corpusP.txt", "r")
-            file_corpus_negativo = open("corpusN.txt", "r")
-            contadorP = contar(palabra, file_corpus_positivo)
-            contadorN = contar(palabra, file_corpus_negativo)
-            if contadorN < MINIMO:
-                contadorUNKN += contadorN
-            else:
-                logProbN = numpy.log((contadorN + 1) / (NN + V))
-                palabra = palabra.strip('\n')
-                file_negativos.write(f'Palabra: {palabra} Frec: {contadorN} LogProb: {logProbN}\n')
-            if contadorP < MINIMO:
-                contadorUNKP += contadorP
-            else:
-                logProbP = numpy.log((contadorP + 1) / (NP + V))
-                palabra = palabra.strip('\n')
-                file_positivos.write(f'Palabra: {palabra} Frec: {contadorP} LogProb: {logProbP}\n')
-            file_corpus_negativo.close()
-            file_corpus_positivo.close()
-        letra_anterior = letra
-    logProbN = numpy.log((contadorUNKN + 1) / (V + NN))
-    logProbP = numpy.log((contadorUNKP + 1) / (NP + V))
-    file_negativos.write(f'Palabra: UNK Frec: {contadorUNKN} LogProb: {logProbN}\n')
-    file_positivos.write(f'Palabra: UNK Frec: {contadorUNKP} LogProb: {logProbP}\n')
+
+    modelo_especifico(diccionario_positivo, file_positivos, NP)
+    modelo_especifico(diccionario_negativo, file_negativos, NN)
+    
     fin = time.time()
     print(f'Fin. T: {round(fin - archivos, 2)} s')
-    file_vocabulario.close()
 
 
 def main():
@@ -193,7 +188,7 @@ def main():
     # del vocabulario y se mira cuántas veces aparecen en el corpus
     modelo_del_lenguaje()
 
-#main()
+main()
 
 def pruebas():
     print(f'{numpy.log10(10)}')
