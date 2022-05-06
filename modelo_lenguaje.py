@@ -145,7 +145,7 @@ def modelo_especifico(diccionario, fichero, N):
     V = 55002
     contadorUNK = 0
     # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 10
+    MINIMO = 3
     for palabra in diccionario:
         if diccionario[palabra] < MINIMO:
             contadorUNK += diccionario[palabra]
@@ -188,7 +188,7 @@ def main():
     # del vocabulario y se mira cuántas veces aparecen en el corpus
     modelo_del_lenguaje()
 
-main()
+#main()
 
 def pruebas():
     print(f'{numpy.log10(10)}')
