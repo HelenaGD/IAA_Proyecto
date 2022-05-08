@@ -113,19 +113,29 @@ def main():
     file_clasificacion.close()
     file_resumen.close()
 
+def diccionario_eficacia(fichero):
+    diccionario = {}
+    iterador = 0
+    for line in fichero:
+        line = line.strip('\n')
+        diccionario[iterador] = line
+        iterador += 1
+    return diccionario
+        
+
 def eficacia():
     fichero_salida = open("resumen_alu0100829150.txt", "r")
-    diccionario_resultado = convertir_diccionario(fichero_salida)
+    diccionario_resultado = diccionario_eficacia(fichero_salida)
     corpus = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
     aciertos = 0
     for index, data in corpus.iterrows():
-        if data[1] == "Positive" & diccionario_resultado[index] == 'P':
+        if data[1] == "Positive" and diccionario_resultado[index] == 'P':
             aciertos += 1
-        if data[1] == "Negative" & diccionario_resultado[index] == 'N':
+        elif data[1] == "Negative" and diccionario_resultado[index] == 'N':
             aciertos += 1
     eficacia = round(aciertos / len(diccionario_resultado) * 100, 2)
     print(f'Aciertos: {aciertos} Eficacia: {eficacia} %')
     fichero_salida.close()
 
-main()
-eficacia
+#main()
+eficacia()
