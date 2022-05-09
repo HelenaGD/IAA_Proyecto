@@ -128,13 +128,22 @@ def eficacia():
     diccionario_resultado = diccionario_eficacia(fichero_salida)
     corpus = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
     aciertos = 0
+    aciertosP = 0
+    aciertosN = 0
     for index, data in corpus.iterrows():
         if data[1] == "Positive" and diccionario_resultado[index] == 'P':
             aciertos += 1
+            aciertosP += 1
         elif data[1] == "Negative" and diccionario_resultado[index] == 'N':
             aciertos += 1
+            aciertosN += 1
     eficacia = round(aciertos / len(diccionario_resultado) * 100, 2)
+    eficaciaP = round(aciertosP / 18047 * 100, 2)
+    eficaciaN = round(aciertosN / 15397 * 100, 2)
+    
     print(f'Aciertos: {aciertos} Eficacia: {eficacia} %')
+    print(f'POSITIVOS: Aciertos {aciertosP} Eficacia: {eficaciaP}%')
+    print(f'NEGATIVOS: Aciertos {aciertosN} Eficacia: {eficaciaN}%')
     fichero_salida.close()
 
 #main()
