@@ -1,5 +1,5 @@
-Numero de documentos (tweets) del corpus: 15398
-Numero de palabras del corpus: 282789
+Numero de documentos (tweets) del corpus: 15397
+Numero de palabras del corpus: 282768
 a
 a
 a
@@ -29379,7 +29379,6 @@ cause
 cause
 cause
 cause
-cause
 caused
 caused
 caused
@@ -38038,7 +38037,6 @@ confined
 confined
 confined
 confined
-confinement
 confinement
 confinement
 confinement
@@ -49344,7 +49342,6 @@ coronavirus
 coronavirus
 coronavirus
 coronavirus
-coronavirus
 coronavirusalert
 coronavirusamerica
 coronavirusau
@@ -49435,7 +49432,6 @@ coronavirusdeutschland
 coronavirusdeutschland
 coronaviruses
 coronavirusesp
-coronavirusfrance
 coronavirushoaders
 coronavirushoax
 coronavirushoax
@@ -52373,7 +52369,6 @@ covi
 covi
 covi
 covic
-covid
 covid
 covid
 covid
@@ -82645,7 +82640,6 @@ empty
 empty
 empty
 empty
-empty
 emptying
 emptying
 emptying
@@ -100081,7 +100075,6 @@ food
 food
 food
 food
-food
 foodallergies
 foodbank
 foodbank
@@ -107800,7 +107793,6 @@ gna
 gnight
 gnocchi
 gntm
-go
 go
 go
 go
@@ -141861,7 +141853,6 @@ litter
 litter
 litter
 litter
-litteraly
 littered
 little
 little
@@ -171842,7 +171833,6 @@ outbreak
 outbreak
 outbreak
 outbreak
-outbreak
 outcome
 outcome
 outcome
@@ -176534,7 +176524,6 @@ panic
 panic
 panic
 panic
-panic
 panicattack
 panicbuy
 panicbuy
@@ -177667,7 +177656,6 @@ paranaque
 paranoia
 paranoia
 paranoia
-paranoid
 paranoid
 paranoid
 paranoid
@@ -185025,7 +185013,6 @@ pleads
 pleasant
 pleasant
 pleasantly
-please
 please
 please
 please
@@ -201066,7 +201053,6 @@ ready
 ready
 ready
 ready
-ready
 readymade
 readymeals
 readysteadycook
@@ -206230,7 +206216,6 @@ restaurantmanagement
 restaurantnews
 restaurantnews
 resteraunts
-restezchezvous
 restitution
 restock
 restock
@@ -218790,7 +218775,6 @@ serious
 serious
 serious
 serious
-serious
 seriously
 seriously
 seriously
@@ -223949,7 +223933,6 @@ short
 short
 short
 short
-shortage
 shortage
 shortage
 shortage
@@ -233965,7 +233948,6 @@ stayathome
 stayathome
 stayathome
 stayathome
-stayathome
 stayathomeandstaysafe
 stayathomeandstaysafe
 stayathomeandstaysafe
@@ -235400,7 +235382,6 @@ sto
 sto
 sto
 stoc
-stock
 stock
 stock
 stock
@@ -245954,7 +245935,6 @@ supermarket
 supermarket
 supermarket
 supermarket
-supermarket
 supermarketmadness
 supermarketraiders
 supermarketsweep
@@ -252265,7 +252245,6 @@ thin
 thin
 thin
 thinblueline
-thing
 thing
 thing
 thing

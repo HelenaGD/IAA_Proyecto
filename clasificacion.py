@@ -5,9 +5,8 @@ import re
 import nltk
 import string
 from nltk.corpus import stopwords
-from pyparsing import indentedBlock
-from modelo_lenguaje import limpiar
-from modelo_lenguaje import func_lemantizacion
+from modelo_lenguaje_old import limpiar
+from modelo_lenguaje_old import func_lemantizacion
 
 def tokenization(tweet):
     stop = set(stopwords.words('english') + list(string.punctuation))
@@ -60,7 +59,7 @@ def clasificacion(tweets, fichero, fichero_resumen, tweets_originales):
     diccionario_modelo_N = diccionario_modelo(file_modeloN)
     index = 0
     P_clase_P = 18046 / len(tweets)
-    P_clase_N = 15397 / len(tweets)
+    P_clase_N = 15398 / len(tweets)
     porcentaje_anterior = 0
     for tweet in tweets:
         primeros_10_caracteres = tweets_originales[index][0:10]
@@ -93,6 +92,7 @@ def probability(tweet, diccionario):
     return probabilidad
 
 def main():
+    print('\n-----CLASIFICACION-----')
     inicio = time.time()
     file_clasificacion = open("clasificacion_alu0100829150.txt", "w")
     file_resumen = open("resumen_alu0100829150.txt", "w")
@@ -100,7 +100,7 @@ def main():
     # Guardo los tweets originales en un diccionario
     tweets_originales = convertir_diccionario(file_tweets)
     primeros_10_caracteres = tweets_originales[0][0:10] # error aquí
-    print(f'Aquí: \'{primeros_10_caracteres}\'')
+    print(f'Primer tweet: \'{primeros_10_caracteres}\'')
     print(f'Preprocesando tweets...')
     # Carga de datos
     tweets = carga_de_tweets()
@@ -146,5 +146,5 @@ def eficacia():
     print(f'NEGATIVOS: Aciertos {aciertosN} Eficacia: {eficaciaN}%')
     fichero_salida.close()
 
-#main()
+main()
 eficacia()

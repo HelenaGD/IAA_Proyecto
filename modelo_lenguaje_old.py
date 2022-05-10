@@ -141,138 +141,51 @@ def crear_diccionario(nombre_fichero):
             diccionario[line] += 1
     return diccionario
 
-def modelo_especifico_old(diccionario, fichero, N, V):
-    # Palabras en el vocabulario
-    # V = 352011
+def modelo_especifico(diccionario, fichero, N):
+    V = 55002
     contadorUNK = 0
     # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 20
+    MINIMO = 3
     for palabra in diccionario:
         if diccionario[palabra] < MINIMO:
             contadorUNK += diccionario[palabra]
         else:
-            logProb = numpy.log((diccionario[palabra] + 1) / (N + V))
-            fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
-    logProb = numpy.log((contadorUNK + 1) / (N + V))
-    fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')
-
-def combinar_diccionarios(diccionario1, diccionario2):
-    diccionario_final = {}
-    # Los combino para tener las mismas claves
-    diccionario_final.update(diccionario1)
-    diccionario_final.update(diccionario2)
-    # Guardo las frecuencias adecuadas
-    for key in diccionario_final.keys():
-        if key not in diccionario1:
-            diccionario_final[key] = diccionario2[key]
-        elif key not in diccionario2:
-            diccionario_final[key] = diccionario1[key]
-        else:
-            diccionario_final[key] = diccionario1[key] + diccionario2[key]
-    return diccionario_final
-    
-def modelo_especifico(diccionario, fichero, N, V):
-    for palabra in diccionario:
-        if palabra == 'UNK':
-            logProb = numpy.log((diccionario[palabra] + 1) / (N + V))
-        else:
             logProb = numpy.log((diccionario[palabra] + 1) / N + V)
-        fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
-    
+            fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
+    logProb = ((contadorUNK + 1) / (N + V))
+    fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')     
+
 def modelo_del_lenguaje():
     print(f'Abriendo archivos')
     inicio = time.time()
     file_positivos = open("modelo_lenguaje_P.txt", "w")
     file_negativos = open("modelo_lenguaje_N.txt", "w")
     
-    # Se crean los corpus con sus frecuencias
     diccionario_positivo = crear_diccionario("corpusP.txt")
     diccionario_negativo = crear_diccionario("corpusN.txt")
-    # Combino los corpus en uno general
-    # Con las keys tengo el vocabulario, y además tengo la frecuencia de aparicion de cada palabra
-    diccionario_corpus_total = combinar_diccionarios(diccionario_positivo, diccionario_negativo)
-    print(f'Palabras en el vocabulario antes: {len(diccionario_corpus_total)}')
-    print(f'Palabras unicas en corpus negativo antes: {len(diccionario_negativo)}')
-    print(f'Palabras unicas en corpus positivo antes: {len(diccionario_positivo)}')
-    
-    # Ahora establezco un mínimo de veces que debe aparecer una palabra
-    MINIMO = 10
-    print(f'Estableciendo un mínimo de apariciones de {MINIMO}...')
-    # Sustituyo las palabras que no pasan el mínimo
-    contador = 0
-    for key in diccionario_corpus_total.copy().keys():
-        if diccionario_corpus_total[key] < MINIMO:
-            if contador < 10:
-                print(f'Palabra: {key}')
-                contador += 1
-            if 'UNK' not in diccionario_corpus_total:
-                diccionario_corpus_total['UNK'] = diccionario_corpus_total[key]
-            else:
-                diccionario_corpus_total['UNK'] += diccionario_corpus_total[key]
-            if 'UNK' not in diccionario_negativo:
-                diccionario_negativo['UNK'] = diccionario_negativo[key]
-            elif key in diccionario_negativo:
-                diccionario_negativo['UNK'] += diccionario_negativo[key]
-            if 'UNK' not in diccionario_positivo:
-                diccionario_positivo['UNK'] = diccionario_positivo[key]
-            elif key in diccionario_positivo:
-                diccionario_positivo['UNK'] += diccionario_positivo[key]
-            # Se elimina la palabra de los diccionarios
-            del diccionario_corpus_total[key]
-            if key in diccionario_negativo:
-                del diccionario_negativo[key]
-            if key in diccionario_positivo:
-                del diccionario_positivo[key]
-    print(f'Palabras en el vocabulario después: {len(diccionario_corpus_total)}')
-    print(f'Palabras unicas en corpus negativo despues: {len(diccionario_negativo)}')
-    print(f'Palabras unicas en corpus positivo despues: {len(diccionario_positivo)}')
-    
-    contador = 0
-    print('Diccionario total')
-    for key in diccionario_corpus_total.keys():
-        if contador < 10:
-            print(f'{key}, {diccionario_corpus_total[key]}')
-            contador += 1
-    
-    contador = 0
-    print('Diccionario positivo')
-    for key in diccionario_positivo.keys():
-        if contador < 10:
-            print(f'{key}, {diccionario_positivo[key]}')
-            contador += 1
-    
-    contador = 0
-    print('Diccionario negativo')
-    for key in diccionario_corpus_total.keys():
-        if contador < 10:
-            print(f'{key}, {diccionario_corpus_total[key]}')
-            contador += 1
-    
+
     archivos = time.time()
     print(f'Archivos abiertos {round(archivos - inicio, 2)} s')
     print(f'Contando palabras en corpus...')
-    # Palabras en el vocabulario
-    # V = 35211
-    V = len(diccionario_corpus_total)
-    # Palabras en el corpus negativo
+    # Las listas de palabras están ordenadas
+    contadorUNKP = 0
+    contadorUNKN = 0
+    V = 55002
     NN = 282768
-    # Palabras en el corpus positivo
     NP = 335608
     inicio = time.time()
 
-    modelo_especifico(diccionario_positivo, file_positivos, NP, V)
-    modelo_especifico(diccionario_negativo, file_negativos, NN, V)
+    modelo_especifico(diccionario_positivo, file_positivos, NP)
+    modelo_especifico(diccionario_negativo, file_negativos, NN)
     
     fin = time.time()
     print(f'Fin. T: {round(fin - archivos, 2)} s')
 
 
 def main():
-    # print('-----CORPUS INICIALES-----')
-    #corpus_inicial()
+    # corpus_inicial()
     # Una vez se tienen los corpus iniciales, se cuentas las palabras
     # del vocabulario y se mira cuántas veces aparecen en el corpus
-    print('\n-----MODELO DEL LENGUAJE-----')
     modelo_del_lenguaje()
 
 main()
