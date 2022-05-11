@@ -5,8 +5,8 @@ import re
 import nltk
 import string
 from nltk.corpus import stopwords
-from modelo_lenguaje_old import limpiar
-from modelo_lenguaje_old import func_lemantizacion
+from modelo_lenguaje import limpiar
+from modelo_lenguaje import func_lemantizacion
 
 def tokenization(tweet):
     stop = set(stopwords.words('english') + list(string.punctuation))
@@ -26,7 +26,7 @@ def convertir_diccionario(fichero):
 
 def carga_de_tweets():
     inicio = time.time()
-    file_tweets = pd.read_excel(r'COV_train.xlsx',header=0, index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A")
+    file_tweets = pd.read_excel(r'COV_test_g1.xlsx',header=0, index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A")
     tweets  = []
     porcentaje_anterior = 0
     for index, data in file_tweets.iterrows():
@@ -96,10 +96,10 @@ def main():
     inicio = time.time()
     file_clasificacion = open("clasificacion_alu0100829150.txt", "w")
     file_resumen = open("resumen_alu0100829150.txt", "w")
-    file_tweets = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A")
+    file_tweets = pd.read_excel(r'COV_test_g1.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A")
     # Guardo los tweets originales en un diccionario
     tweets_originales = convertir_diccionario(file_tweets)
-    primeros_10_caracteres = tweets_originales[0][0:10] # error aquí
+    primeros_10_caracteres = tweets_originales[0][0:10] 
     print(f'Primer tweet: \'{primeros_10_caracteres}\'')
     print(f'Preprocesando tweets...')
     # Carga de datos
@@ -147,4 +147,4 @@ def eficacia():
     fichero_salida.close()
 
 main()
-eficacia()
+#eficacia()
