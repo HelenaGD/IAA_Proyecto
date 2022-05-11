@@ -143,6 +143,7 @@ def crear_diccionario(nombre_fichero):
 
 def modelo_especifico(diccionario, fichero, N):
     V = 55002
+    #V = 35211
     contadorUNK = 0
     # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
     MINIMO = 3

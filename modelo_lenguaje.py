@@ -146,12 +146,12 @@ def modelo_especifico_old(diccionario, fichero, N, V):
     # V = 352011
     contadorUNK = 0
     # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 20
+    MINIMO = 10
     for palabra in diccionario:
         if diccionario[palabra] < MINIMO:
             contadorUNK += diccionario[palabra]
         else:
-            logProb = numpy.log((diccionario[palabra] + 1) / (N + V))
+            logProb = numpy.log((diccionario[palabra] + 1) / N + V)
             fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
     logProb = numpy.log((contadorUNK + 1) / (N + V))
     fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')
@@ -196,14 +196,14 @@ def modelo_del_lenguaje():
     print(f'Palabras unicas en corpus positivo antes: {len(diccionario_positivo)}')
     
     # Ahora establezco un mínimo de veces que debe aparecer una palabra
-    MINIMO = 10
+    MINIMO = 20
     print(f'Estableciendo un mínimo de apariciones de {MINIMO}...')
     # Sustituyo las palabras que no pasan el mínimo
     contador = 0
     for key in diccionario_corpus_total.copy().keys():
         if diccionario_corpus_total[key] < MINIMO:
             if contador < 10:
-                print(f'Palabra: {key}')
+                #print(f'Palabra: {key}')
                 contador += 1
             if 'UNK' not in diccionario_corpus_total:
                 diccionario_corpus_total['UNK'] = diccionario_corpus_total[key]
@@ -260,8 +260,8 @@ def modelo_del_lenguaje():
     NP = 335608
     inicio = time.time()
 
-    modelo_especifico(diccionario_positivo, file_positivos, NP, V)
-    modelo_especifico(diccionario_negativo, file_negativos, NN, V)
+    modelo_especifico_old(diccionario_positivo, file_positivos, NP, V)
+    modelo_especifico_old(diccionario_negativo, file_negativos, NN, V)
     
     fin = time.time()
     print(f'Fin. T: {round(fin - archivos, 2)} s')
