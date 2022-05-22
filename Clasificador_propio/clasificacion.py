@@ -5,9 +5,9 @@ import re
 import nltk
 import string
 from nltk.corpus import stopwords
-from modelo_lenguaje_good import limpiar
-from modelo_lenguaje_good import func_lemantizacion
-from modelo_lenguaje_good import truncamiento
+from modelo_lenguaje import limpiar
+from modelo_lenguaje import func_lemantizacion
+from modelo_lenguaje import truncamiento
 
 ENTRADA = 'input/COV_test_g1.xlsx'
 SOLUCION = 'input/COV_test_g1_debug_2.xlsx'
@@ -156,5 +156,5 @@ def eficacia():
     print(f'NEGATIVOS: Aciertos {aciertosN} Eficacia: {eficaciaN}%')
     fichero_salida.close()
 
-#main()
-eficacia()
+main()
+#eficacia()

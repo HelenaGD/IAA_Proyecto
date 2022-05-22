@@ -7,6 +7,7 @@ import numpy
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
+from nltk.stem import PorterStemmer
 
 def nltk_pos_tagger(nltk_tag):
   etiqueta = nltk_tag[0][1]
@@ -64,6 +65,15 @@ def func_lemantizacion(lista_de_tokens):
     lista_final.sort()
     return lista_final
 
+def truncamiento(lista):
+    ps = PorterStemmer()
+    lista_final = []
+    for word in lista:
+        palabra_truncada = ps.stem(word)
+        lista_final.append(palabra_truncada)
+    lista_final.sort()
+    return lista_final
+    
 def escribir(lista, archivo):
     # Numero de palabras del corpus
     palabras_corpus = f'Numero de palabras del corpus: {len(lista)}\n'
@@ -75,7 +85,7 @@ def escribir(lista, archivo):
 def corpus_inicial():
     inicio = time.time()
     print(f'Cargando datos...')
-    corpus = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
+    corpus = pd.read_excel(r'input/COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
     file_positivos = open("corpusP_inicial.txt", "w")
     file_negativos = open("corpusN_inicial.txt", "w")
 
@@ -113,9 +123,16 @@ def corpus_inicial():
     lista_final_positivos = func_lemantizacion(the_list_of_tokens_positivos)
     lemantizacion = time.time()
     tiempo = round(lemantizacion - tokenizacion, 2)
-    print(f'Lemantizacion realizada. T: {tiempo} s')
-    escribir(lista_final_positivos, file_positivos)
-    escribir(lista_final_negativos, file_negativos)
+    print(f'Lemantizacion realizada. T: {round(tiempo / 60, 2)} min')
+    # Truncamiento
+    print(f'Realizando truncamiento...')
+    corpus_inicial_positivos = truncamiento(lista_final_positivos)
+    corpus_inicial_negativos = truncamiento(lista_final_negativos)
+    tiempo = round(round(time.time() - tiempo, 2) / 60, 2)
+    print(f'Truncamiento realizado. Tiempo: {tiempo} min')
+    # Se escribe en los txt del corpus
+    escribir(corpus_inicial_positivos, file_positivos)
+    escribir(corpus_inicial_negativos, file_negativos)
 
 def crear_diccionario(nombre_fichero):
     fichero = open(nombre_fichero, "r")
@@ -141,52 +158,139 @@ def crear_diccionario(nombre_fichero):
             diccionario[line] += 1
     return diccionario
 
-def modelo_especifico(diccionario, fichero, N):
-    V = 55002
-    #V = 35211
+def modelo_especifico_old(diccionario, fichero, N, V):
+    # Palabras en el vocabulario
+    # V = 352011
     contadorUNK = 0
     # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 3
+    MINIMO = 10
     for palabra in diccionario:
         if diccionario[palabra] < MINIMO:
             contadorUNK += diccionario[palabra]
         else:
             logProb = numpy.log((diccionario[palabra] + 1) / N + V)
             fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
-    logProb = ((contadorUNK + 1) / (N + V))
-    fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')     
+    logProb = numpy.log((contadorUNK + 1) / (N + V))
+    fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')
 
+def combinar_diccionarios(diccionario1, diccionario2):
+    diccionario_final = {}
+    # Los combino para tener las mismas claves
+    diccionario_final.update(diccionario1)
+    diccionario_final.update(diccionario2)
+    # Guardo las frecuencias adecuadas
+    for key in diccionario_final.keys():
+        if key not in diccionario1:
+            diccionario_final[key] = diccionario2[key]
+        elif key not in diccionario2:
+            diccionario_final[key] = diccionario1[key]
+        else:
+            diccionario_final[key] = diccionario1[key] + diccionario2[key]
+    return diccionario_final
+    
+def modelo_especifico(diccionario, fichero, N, V):
+    for palabra in diccionario:
+        logProb = numpy.log((diccionario[palabra] + 1) / (N + V))
+        fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
+    
 def modelo_del_lenguaje():
     print(f'Abriendo archivos')
     inicio = time.time()
     file_positivos = open("modelo_lenguaje_P.txt", "w")
     file_negativos = open("modelo_lenguaje_N.txt", "w")
     
+    # Se crean los corpus con sus frecuencias
     diccionario_positivo = crear_diccionario("corpusP.txt")
     diccionario_negativo = crear_diccionario("corpusN.txt")
-
+    # Combino los corpus en uno general
+    # Con las keys tengo el vocabulario, y además tengo la frecuencia de aparicion de cada palabra
+    diccionario_corpus_total = combinar_diccionarios(diccionario_positivo, diccionario_negativo)
+    print(f'Palabras en el vocabulario antes: {len(diccionario_corpus_total)}')
+    print(f'Palabras unicas en corpus negativo antes: {len(diccionario_negativo)}')
+    print(f'Palabra totales en corpus negativo antes: {sum(diccionario_negativo.values())}')
+    print(f'Palabras unicas en corpus positivo antes: {len(diccionario_positivo)}')
+    print(f'Palabra totales en corpus positivo antes: {sum(diccionario_positivo.values())}')
+    
+    # Ahora establezco un mínimo de veces que debe aparecer una palabra
+    MINIMO = 5
+    print(f'\nEstableciendo un mínimo de apariciones de {MINIMO}...')
+    # Sustituyo las palabras que no pasan el mínimo
+    contador = 0
+    for key in diccionario_corpus_total.copy().keys():
+        if diccionario_corpus_total[key] < MINIMO:
+            if contador < 10:
+                #print(f'Palabra: {key}')
+                contador += 1
+            if 'UNK' not in diccionario_corpus_total:
+                diccionario_corpus_total['UNK'] = diccionario_corpus_total[key]
+            else:
+                diccionario_corpus_total['UNK'] += diccionario_corpus_total[key]
+            if 'UNK' not in diccionario_negativo:
+                diccionario_negativo['UNK'] = diccionario_negativo[key]
+            elif key in diccionario_negativo:
+                diccionario_negativo['UNK'] += diccionario_negativo[key]
+            if 'UNK' not in diccionario_positivo:
+                diccionario_positivo['UNK'] = diccionario_positivo[key]
+            elif key in diccionario_positivo:
+                diccionario_positivo['UNK'] += diccionario_positivo[key]
+            # Se elimina la palabra de los diccionarios
+            del diccionario_corpus_total[key]
+            if key in diccionario_negativo:
+                del diccionario_negativo[key]
+            if key in diccionario_positivo:
+                del diccionario_positivo[key]
+    print(f'\nPalabras en el vocabulario después: {len(diccionario_corpus_total)}')
+    print(f'Palabras unicas en corpus negativo despues: {len(diccionario_negativo)}')
+    print(f'Palabra totales en corpus negativo despues: {sum(diccionario_negativo.values())}')
+    print(f'Palabras unicas en corpus positivo despues: {len(diccionario_positivo)}')
+    print(f'Palabra totales en corpus positivo despues: {sum(diccionario_positivo.values())}')
+    
+    '''
+    contador = 0
+    print('Diccionario total')
+    for key in diccionario_corpus_total.keys():
+        if contador < 10:
+            print(f'{key}, {diccionario_corpus_total[key]}')
+            contador += 1
+    
+    contador = 0
+    print('Diccionario positivo')
+    for key in diccionario_positivo.keys():
+        if contador < 10:
+            print(f'{key}, {diccionario_positivo[key]}')
+            contador += 1
+    
+    contador = 0
+    print('Diccionario negativo')
+    for key in diccionario_negativo.keys():
+        if contador < 10:
+            print(f'{key}, {diccionario_negativo[key]}')
+            contador += 1
+    '''
+    
     archivos = time.time()
     print(f'Archivos abiertos {round(archivos - inicio, 2)} s')
     print(f'Contando palabras en corpus...')
-    # Las listas de palabras están ordenadas
-    contadorUNKP = 0
-    contadorUNKN = 0
-    V = 55002
-    NN = 282768
-    NP = 335608
+    # Palabras en el vocabulario
+    V = len(diccionario_corpus_total)
+    # Palabras en el corpus negativo
+    NN = sum(diccionario_negativo.values())
+    # Palabras en el corpus positivo
+    NP = sum(diccionario_positivo.values())
     inicio = time.time()
 
-    modelo_especifico(diccionario_positivo, file_positivos, NP)
-    modelo_especifico(diccionario_negativo, file_negativos, NN)
+    modelo_especifico(diccionario_positivo, file_positivos, NP, V)
+    modelo_especifico(diccionario_negativo, file_negativos, NN, V)
     
     fin = time.time()
     print(f'Fin. T: {round(fin - archivos, 2)} s')
 
-
 def main():
-    # corpus_inicial()
+    # print('-----CORPUS INICIALES-----')
+    #corpus_inicial()
     # Una vez se tienen los corpus iniciales, se cuentas las palabras
     # del vocabulario y se mira cuántas veces aparecen en el corpus
+    print('\n-----MODELO DEL LENGUAJE-----')
     modelo_del_lenguaje()
 
 #main()
