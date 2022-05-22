@@ -158,21 +158,6 @@ def crear_diccionario(nombre_fichero):
             diccionario[line] += 1
     return diccionario
 
-def modelo_especifico_old(diccionario, fichero, N, V):
-    # Palabras en el vocabulario
-    # V = 352011
-    contadorUNK = 0
-    # Mínimo de veces que tiene que aparecer una palabra para no ser contada como UNK
-    MINIMO = 10
-    for palabra in diccionario:
-        if diccionario[palabra] < MINIMO:
-            contadorUNK += diccionario[palabra]
-        else:
-            logProb = numpy.log((diccionario[palabra] + 1) / N + V)
-            fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
-    logProb = numpy.log((contadorUNK + 1) / (N + V))
-    fichero.write(f'Palabra: UNK Frec: {contadorUNK} LogProb: {logProb}\n')
-
 def combinar_diccionarios(diccionario1, diccionario2):
     diccionario_final = {}
     # Los combino para tener las mismas claves
