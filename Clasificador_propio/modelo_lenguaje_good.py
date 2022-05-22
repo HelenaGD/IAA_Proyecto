@@ -190,10 +190,7 @@ def combinar_diccionarios(diccionario1, diccionario2):
     
 def modelo_especifico(diccionario, fichero, N, V):
     for palabra in diccionario:
-        if palabra == 'UNK':
-            logProb = numpy.log((diccionario[palabra] + 1) / (N + V))
-        else:
-            logProb = numpy.log((diccionario[palabra] + 1) / N + V)
+        logProb = numpy.log((diccionario[palabra] + 1) / (N + V))
         fichero.write(f'Palabra: {palabra} Frec: {diccionario[palabra]} LogProb: {logProb}\n')
     
 def modelo_del_lenguaje():
@@ -210,11 +207,13 @@ def modelo_del_lenguaje():
     diccionario_corpus_total = combinar_diccionarios(diccionario_positivo, diccionario_negativo)
     print(f'Palabras en el vocabulario antes: {len(diccionario_corpus_total)}')
     print(f'Palabras unicas en corpus negativo antes: {len(diccionario_negativo)}')
+    print(f'Palabra totales en corpus negativo antes: {sum(diccionario_negativo.values())}')
     print(f'Palabras unicas en corpus positivo antes: {len(diccionario_positivo)}')
+    print(f'Palabra totales en corpus positivo antes: {sum(diccionario_positivo.values())}')
     
     # Ahora establezco un mínimo de veces que debe aparecer una palabra
-    MINIMO = 20
-    print(f'Estableciendo un mínimo de apariciones de {MINIMO}...')
+    MINIMO = 5
+    print(f'\nEstableciendo un mínimo de apariciones de {MINIMO}...')
     # Sustituyo las palabras que no pasan el mínimo
     contador = 0
     for key in diccionario_corpus_total.copy().keys():
@@ -240,10 +239,13 @@ def modelo_del_lenguaje():
                 del diccionario_negativo[key]
             if key in diccionario_positivo:
                 del diccionario_positivo[key]
-    print(f'Palabras en el vocabulario después: {len(diccionario_corpus_total)}')
+    print(f'\nPalabras en el vocabulario después: {len(diccionario_corpus_total)}')
     print(f'Palabras unicas en corpus negativo despues: {len(diccionario_negativo)}')
+    print(f'Palabra totales en corpus negativo despues: {sum(diccionario_negativo.values())}')
     print(f'Palabras unicas en corpus positivo despues: {len(diccionario_positivo)}')
+    print(f'Palabra totales en corpus positivo despues: {sum(diccionario_positivo.values())}')
     
+    '''
     contador = 0
     print('Diccionario total')
     for key in diccionario_corpus_total.keys():
@@ -260,39 +262,38 @@ def modelo_del_lenguaje():
     
     contador = 0
     print('Diccionario negativo')
-    for key in diccionario_corpus_total.keys():
+    for key in diccionario_negativo.keys():
         if contador < 10:
-            print(f'{key}, {diccionario_corpus_total[key]}')
+            print(f'{key}, {diccionario_negativo[key]}')
             contador += 1
+    '''
     
     archivos = time.time()
     print(f'Archivos abiertos {round(archivos - inicio, 2)} s')
     print(f'Contando palabras en corpus...')
     # Palabras en el vocabulario
-    # V = 35211
     V = len(diccionario_corpus_total)
     # Palabras en el corpus negativo
-    NN = 282768
+    NN = sum(diccionario_negativo.values())
     # Palabras en el corpus positivo
-    NP = 335608
+    NP = sum(diccionario_positivo.values())
     inicio = time.time()
 
-    modelo_especifico_old(diccionario_positivo, file_positivos, NP, V)
-    modelo_especifico_old(diccionario_negativo, file_negativos, NN, V)
+    modelo_especifico(diccionario_positivo, file_positivos, NP, V)
+    modelo_especifico(diccionario_negativo, file_negativos, NN, V)
     
     fin = time.time()
     print(f'Fin. T: {round(fin - archivos, 2)} s')
 
-
 def main():
     # print('-----CORPUS INICIALES-----')
-    corpus_inicial()
+    #corpus_inicial()
     # Una vez se tienen los corpus iniciales, se cuentas las palabras
     # del vocabulario y se mira cuántas veces aparecen en el corpus
     print('\n-----MODELO DEL LENGUAJE-----')
-    #modelo_del_lenguaje()
+    modelo_del_lenguaje()
 
-main()
+#main()
 
 def pruebas():
     print(f'{numpy.log10(10)}')
