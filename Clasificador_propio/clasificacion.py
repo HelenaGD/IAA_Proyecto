@@ -9,8 +9,8 @@ from modelo_lenguaje import limpiar
 from modelo_lenguaje import func_lemantizacion
 from modelo_lenguaje import truncamiento
 
-ENTRADA = 'input/COV_test_g1.xlsx'
-SOLUCION = 'input/COV_test_g1_debug_2.xlsx'
+ENTRADA = 'input/COV_test_g1_debug.xlsx'
+SOLUCION = 'input/COV_test_g1_debug.xlsx'
 
 def tokenization(tweet):
     stop = set(stopwords.words('english') + list(string.punctuation))
@@ -136,25 +136,30 @@ def eficacia():
     aciertosP = 0
     aciertosN = 0
     for index, data in corpus.iterrows():
-        if data[1] == "P" and diccionario_resultado[index] == 'P':
+        if data[1] == "Positive" and diccionario_resultado[index] == 'P':
             aciertos += 1
             aciertosP += 1
-        elif data[1] == "N" and diccionario_resultado[index] == 'N':
+        elif data[1] == "Negative" and diccionario_resultado[index] == 'N':
             aciertos += 1
             aciertosN += 1
     '''
     eficacia = round(aciertos / len(diccionario_resultado) * 100, 2)
-    eficaciaP = round((aciertosP / 18047) * 100, 2)
-    eficaciaN = round((aciertosN / 15397) * 100, 2)
+    eficaciaP = round((aciertosP / 18046) * 100, 2)
+    eficaciaN = round((aciertosN / 15398) * 100, 2)
+    '''
     '''
     eficacia = round(aciertos / 100 * 100, 2)
     eficaciaP = round((aciertosP / 49) * 100, 2)
     eficaciaN = round((aciertosN / 51) * 100, 2)
+    '''
+    eficacia = round(aciertos / 31 * 100, 2)
+    eficaciaP = round((aciertosP / 14) * 100, 2)
+    eficaciaN = round((aciertosN / 17) * 100, 2)
     
     print(f'Aciertos: {aciertos} Eficacia: {eficacia} %')
     print(f'POSITIVOS: Aciertos {aciertosP} Eficacia: {eficaciaP}%')
     print(f'NEGATIVOS: Aciertos {aciertosN} Eficacia: {eficaciaN}%')
     fichero_salida.close()
 
-main()
-#eficacia()
+#main()
+eficacia()
