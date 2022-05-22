@@ -7,6 +7,7 @@ import numpy
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
+from nltk.stem import PorterStemmer
 
 def nltk_pos_tagger(nltk_tag):
   etiqueta = nltk_tag[0][1]
@@ -64,6 +65,15 @@ def func_lemantizacion(lista_de_tokens):
     lista_final.sort()
     return lista_final
 
+def truncamiento(lista):
+    ps = PorterStemmer()
+    lista_final = []
+    for word in lista:
+        palabra_truncada = ps.stem(word)
+        lista_final.append(palabra_truncada)
+    lista_final.sort()
+    return lista_final
+    
 def escribir(lista, archivo):
     # Numero de palabras del corpus
     palabras_corpus = f'Numero de palabras del corpus: {len(lista)}\n'
@@ -75,7 +85,7 @@ def escribir(lista, archivo):
 def corpus_inicial():
     inicio = time.time()
     print(f'Cargando datos...')
-    corpus = pd.read_excel(r'COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
+    corpus = pd.read_excel(r'input/COV_train.xlsx', index_col=None, engine='openpyxl', sheet_name='Sheet 1', usecols="A,B")
     file_positivos = open("corpusP_inicial.txt", "w")
     file_negativos = open("corpusN_inicial.txt", "w")
 
@@ -113,9 +123,16 @@ def corpus_inicial():
     lista_final_positivos = func_lemantizacion(the_list_of_tokens_positivos)
     lemantizacion = time.time()
     tiempo = round(lemantizacion - tokenizacion, 2)
-    print(f'Lemantizacion realizada. T: {tiempo} s')
-    escribir(lista_final_positivos, file_positivos)
-    escribir(lista_final_negativos, file_negativos)
+    print(f'Lemantizacion realizada. T: {round(tiempo / 60, 2)} min')
+    # Truncamiento
+    print(f'Realizando truncamiento...')
+    corpus_inicial_positivos = truncamiento(lista_final_positivos)
+    corpus_inicial_negativos = truncamiento(lista_final_negativos)
+    tiempo = round(round(time.time() - tiempo, 2) / 60, 2)
+    print(f'Truncamiento realizado. Tiempo: {tiempo} min')
+    # Se escribe en los txt del corpus
+    escribir(corpus_inicial_positivos, file_positivos)
+    escribir(corpus_inicial_negativos, file_negativos)
 
 def crear_diccionario(nombre_fichero):
     fichero = open(nombre_fichero, "r")
@@ -269,13 +286,13 @@ def modelo_del_lenguaje():
 
 def main():
     # print('-----CORPUS INICIALES-----')
-    #corpus_inicial()
+    corpus_inicial()
     # Una vez se tienen los corpus iniciales, se cuentas las palabras
     # del vocabulario y se mira cuántas veces aparecen en el corpus
     print('\n-----MODELO DEL LENGUAJE-----')
-    modelo_del_lenguaje()
+    #modelo_del_lenguaje()
 
-#main()
+main()
 
 def pruebas():
     print(f'{numpy.log10(10)}')
